@@ -194,6 +194,18 @@ No matter your current context or prior experience,
 this guide was designed with a wide range of learners
 and educators in mind. Here are a few examples of
 who might use the guide and how they might use it:
+#+BEGIN_QUOTE
+Pour qui ce guide est-il fait ?
+Peu importe votre situation actuel ou vos précédentes expériences, ce
+guide a été conçu en pensant à toutes sortes d'apprenants et
+d'éducateurs.  Voici quelques exemples de personnes qui pourraient
+utiliser ce guide et de comment ils pourraient l'utiliser :
+#+END_QUOTE
+
+Creative computing is for everybody
+#+BEGIN_QUOTE
+[Dans la Bulle] La programmation créative pour tous
+#+END_QUOTE
 
 K-12 TEACHER
 Scratch is being used in thousands of elementary, middle-school,
@@ -204,6 +216,18 @@ introduce creative computing as an after-school or lunch-time
 program, using the activities as inspiration and scaffolding for
 students’ open-ended explorations.
 
+#+BEGIN_QUOTE
+Les enseignants de l'école ou du collège
+
+Scratch est utilisé par des milliers de classes à travers le monde, à
+l'école au collège ou au lycée. Ce guide peut servir dans son
+entièreté pour un cours d'un semestre, ou en en sélectionnant des
+extraits pour des cursus dans d'autres domaines. Beaucoup d'éducateurs
+introduisent la programmation créative comme une activité périscolaire,
+et utilisent les activités comme source d'inspiration ou pour
+échafauder pour les étudiants des explorations sans limites.
+#+END_QUOTE
+
 MUSEUM OR LIBRARY EDUCATOR
 In addition to formal learning environments like classrooms,
 Scratch has been used in informal learning spaces like museums
@@ -212,7 +236,12 @@ drop-in play space, these learning environments are ideal for
 supporting explorations in creative computing, without some of
 the restrictions present in traditional settings.
 
-Creative computing is for everybody
+PARENT
+Parents can use the guide in a wide range of ways. From
+supporting homeschooling activities, to starting creative computing
+clubs at school, to hosting workshops at local community centers,
+parents are encouraged to think about how to use the guide to
+support the creative computing experiences of young learners.
 
 COLLEGE INSTRUCTOR
 Scratch can serve as an introduction to fundamental
@@ -225,14 +254,6 @@ The activities have also been used as part of education, art, and
 media literacy courses at the college level.
 
 YOUNG LEARNER
-
-PARENT
-Parents can use the guide in a wide range of ways. From
-supporting homeschooling activities, to starting creative computing
-clubs at school, to hosting workshops at local community centers,
-parents are encouraged to think about how to use the guide to
-support the creative computing experiences of young learners.
-
 Over the past seven years since Scratch’s launch, young learners
 have been passionate advocates for creative computing in a
 variety of settings. From introducing their parents and teachers to
