@@ -196,7 +196,7 @@ and educators in mind. Here are a few examples of
 who might use the guide and how they might use it:
 #+BEGIN_QUOTE
 À qui est destiné ce guide ?
-Peu importe votre situation actuel ou vos précédentes expériences, ce
+Peu importe votre situation actuelle ou vos précédentes expériences, ce
 guide a été conçu en pensant à toutes sortes d'apprenants et
 d'éducateurs.  Voici quelques exemples de personnes qui pourraient
 utiliser ce guide et de comment ils pourraient l'utiliser :
