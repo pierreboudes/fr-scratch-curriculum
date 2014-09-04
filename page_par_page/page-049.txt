@@ -1,0 +1,34 @@
+* page-049
+BUILD-A-BAND
+HOW CAN YOU UTILIZE SCRATCH TO
+CREATE SOUNDS, INSTRUMENTS, BANDS,
+OR STYLES OF MUSIC THAT REPRESENT
+THE MUSIC YOU LOVE MOST?
+In this activity, you will build your own
+music-inspired Scratch project by pairing
+sprites with sounds to design interactive
+instruments.
+
+START HERE
+! Create a sprite.
+! Add sound blocks.
+! Experiment with ways to make your instruments
+interactive.
+
+Choose instruments from the sprite library or create your own.	  
+
+THINGS TO TRY
+! Use repeat blocks to make a sound play more than once.
+! Import or record your own sounds or experiment with the Sounds
+editor.
+! Try playing with the tempo blocks to speed up or slow down the
+rhythm.
+
+FINISHED?
++  Add your project to the Build-A-Band Studio:
+http://scratch.mit.edu/studios/475523
++  Challenge yourself to do more! Invent a new
+instrument or record your own sounds.
++  Help a neighbor!
+
+

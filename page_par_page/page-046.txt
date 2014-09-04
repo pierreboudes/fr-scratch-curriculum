@@ -1,0 +1,78 @@
+* page-046
+UNIT 2 ACTIVITY
+
+PERFORMING
+SCRIPTS
+S U G G E S T E D
+
+OBJECTIVES
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Optionally, have a projector connected to a computer with
+Scratch open to display which blocks and scripts will be
+performed.
+! Ask for two volunteers.
+! Prompt the two volunteers to act out a series of instructions
+(either by “programming” the volunteers through the
+Scratch interface or through printed-out physical versions of
+the Scratch blocks).
+- Have one person do one thing (like walk across the room).
+- Have that person “reset”.
+- Have that person do two things simultaneously (like walk
+across the room and talk).
+- Add the second person, by having the second person
+simultaneously (but independently) do a task, like talking.
+- Have the second person do a dependent task, like
+responding to the first person instead of talking over.
+! Reflect on the experience as a group to discuss the concepts
+of events and parallelism using the reflection prompts to
+the right.
+
+NOTES
++  This activity highlights the notion of “reset”, which is
+something Scratchers often struggle with as they get
+started. If they want things to start in a particular location,
+with a particular look, etc., students need to understand
+that they are completely responsible for programming
+those setup steps.
++  This activity can be useful for demonstrating the broadcast
+and when I receive block pair.
+42
+
+By completing this activity, students will:
++  be introduced to the concepts of events (one thing
+causing another thing to happen) and parallelism
+(things happening at the same time) through
+performance
++  be able to explain what events are and how they work
+in Scratch
++  be able to explain what parallelism is and how it
+works in Scratch
+
+RESOURCES
+! projector (optional)
+! physical Scratch blocks (optional)
+
+REFLECTION PROMPTS
++  What are the different ways that actions were triggered?
++  What are the mechanisms for events in Scratch?
++  What were the different ways in which things were
+happening at the same time?
++  What are the mechanisms that enable parallelism in
+Scratch?
+
+REVIEWING STUDENT WORK
++  Can students explain what events and parallelism are
+and how they work in Scratch?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

@@ -1,0 +1,73 @@
+* page-052
+UNIT 2 ACTIVITY
+
+IT’S ALIVE!
+S U G G E S T E D
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Optionally, show example projects from the It’s Alive! studio
+and have the It’s Alive! handout available to guide students.
+! Introduce the concept of an animation as looping through a
+series of incrementally different pictures, such as in a
+flipbook or a claymation film. Encourage students to
+explore loops by changing costumes or backdrops to create
+an animation.
+! Invite students to share their work with others by hosting a
+gallery walk: have students put their projects in
+presentation mode and then invite them to walk around
+and explore each other’s projects. Optionally, have students
+add their projects to the It’s Alive studio or a class studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  The difference between sprites and costumes is often a
+source of confusion for Scratchers. The metaphor of actors
+wearing multiple costumes can help clarify the difference.
++  Students can animate their own image by taking pictures of
+themselves using a camera or webcam.
+
+OBJECTIVES
+
+By completing this activity, students will:
++  become more familiar with the computational concepts
+of sequence and loops by experimenting with Control
+blocks
++  be able to explain the difference between sprites and
+costumes
++  practice experimenting and iterating through
+developing an animation project
+
+RESOURCES
+! It’s Alive! handout
+! It’s Alive! studio
+http://scratch.mit.edu/studios/475529
+
+REFLECTION PROMPTS
++  What is the difference between a sprite and a costume?
++  What is an animation?
++  List three ways you experience loops in real life
+(e.g., going to sleep every night).
+
+REVIEWING STUDENT WORK
++  Can students distinguish sprites and costumes?
++  Some Scratchers are particularly interested in developing
+animation projects and prefer to spend their time
+drawing and designing sprites, costumes, or backdrops.
+How might you engage students in both the aesthetic and
+technical aspects of projects?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+48
+
+

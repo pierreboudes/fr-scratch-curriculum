@@ -1,0 +1,69 @@
+* page-086
+UNIT 4 ACTIVITY
+
+EXTENSIONS
+S U G G E S T E D
+
+By completing this activity, students will:
++  become more familiar with the concepts of
+conditionals, operators, and data by exploring
+programs that illustrate common game mechanics
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Optionally, show example projects from the Extensions
+studio and have the Extensions handout available to guide
+students.
+! Give students time to explore the code of programs in the
+Extensions studio to investigate different ways games can be
+increased in difficulty or extended. Ask students to select one
+or more extensions to add to their previously started maze,
+pong, or scrolling game projects. Give students time to
+experiment and incorporate the extension(s) into their
+games.
+! Allow students to share their extended game projects with
+one another. We suggest facilitating the pair-share or
+design demo activity to let students share their games and
+demonstrate what they learned.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  To provide more scaffolding for students needing extra
+support, we suggest walking through one extension sample
+program (e.g., levels) as a class and helping students add
+the extension to their game projects.
++  The backpack tool is one way students can incorporate parts
+of the extension projects into their starter games. Learn
+more about backpack at http://bit.ly/scratchbackpack
+82
+
+OBJECTIVES
+
+RESOURCES
+! Extensions handout
+! Extensions studio
+http://scratch.mit.edu/studios/475619
+
+REFLECTION PROMPTS
++  What are different ways of increasing difficulty in a
+game?
++  Which extensions did you add to your game project?
++  Describe your process for including the extension(s) in
+your game?	  
+
+REVIEWING STUDENT WORK
++  Were students able to incorporate extensions into their
+original game projects?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

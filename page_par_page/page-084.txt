@@ -1,0 +1,73 @@
+* page-084
+UNIT 4 ACTIVITY
+
+SCORE
+S U G G E S T E D
+
+OBJECTIVES
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Optionally, explore the Fish Chomp starter project as a
+group and have the Score handout available to guide
+students.
+! Help students open the Fish Chomp starter project. Give
+students time to explore variables by remixing the Fish
+Chomp Starter Project to add score to the game. Optionally,
+give students time to incorporate score into their previously
+started maze, pong, or scrolling game projects.
+! Allow students to share their Fish Chomp remixes or game
+projects with added score. We suggest the Design Demo
+activity: invite a few students to present their projects to the
+group and demonstrate how they implemented score using
+variables. Optionally, have students add their remixes to the
+Fish Chomp Remix studio or a class studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  Encourage students to clarify their understanding of
+variables by exploring code from sample projects in the
+Score examples studio.
++  Variables are an important mathematical and
+computational concept. Students are taught about variables
+in their math and science classes, but many students have a
+difficult time learning them. Games are one way to make
+the usefulness of variables more concrete.
+80
+
+By completing this activity, students will:
++  be able to describe what a variable is and why
+variables are useful
++  be introduced to the computational concept of data
++  experience remixing and reusing a project or part of a
+project
+
+RESOURCES
+! Score handout
+! Score examples studio
+http://scratch.mit.edu/studios/218313
+! Fish Chomp starter project
+http://scratch.mit.edu/projects/10859244
+! Fish Chomp remix studio
+http://scratch.mit.edu/studios/475615
+
+REFLECTION PROMPTS
++  How would you explain variables to someone else?
++  What are variables good for?
+
+REVIEWING STUDENT WORK
++  Can students explain what a variable is and what
+variables are good for?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

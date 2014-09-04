@@ -1,0 +1,83 @@
+* page-045
+CHOOSE YOUR OWN ADVENTURE
+Programming in Scratch is like directing theatre. In theatre, just
+as in Scratch, there are characters (sprites, in Scratch parlance),
+costumes, backdrops, scripts, and a stage. Scratch programming
+utilizes cues called “events”, which signal when things should
+occur in a project, such as: activating a project (when green flag
+clicked), triggering sprites’ actions (when this sprite clicked), or
+even sending a silent cue across sprites or backdrops
+(broadcast).
+Inspired by the theatre metaphor, this unit’s arts-themed
+activities are designed to help students explore the
+computational concepts of loops, events, and parallelism,
+culminating in the design of personalized music videos.
+
+POSSIBLE PATH
+SESSION 1	  
+
+PERFORMING
+SCRIPTS
+
+BUILD-A-BAND
+
+Play the part of a
+sprite by acting
+out different
+Scratch blocks and
+scripts.
+
+Create your own
+musical group by
+making interactive
+instruments.
+
+SESSION 2	  
+
+SESSION 3	  
+
+SESSION 4	  
+
+SESSION 4 & SESSION 5	  
+
+ORANGE
+SQUARE,
+PURPLE
+CIRCLE
+
+IT’S ALIVE!
+
+DEBUG IT!
+
+MUSIC VIDEO
+
+What project can
+you create that
+includes an
+orange square
+and a purple
+circle?
+
+Can you
+animate it?
+Experiment with
+multiple costumes
+to bring an image
+to life.
+
+Help!
+Can you debug
+these five Scratch
+programs?
+
+How can you
+combine
+animation with
+music to create
+your own
+Scratch-inspired
+music video?
+
+41
+
+

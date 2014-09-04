@@ -1,0 +1,87 @@
+* page-055
+DEBUG IT!
+HELP! CAN YOU DEBUG THESE FIVE
+SCRATCH PROGRAMS?
+In this activity, you will investigate what is
+going awry and find a solution for each of
+the five Debug It! challenges.
+
+! DEBUG IT! 2.1 http://scratch.mit.edu/projects/23266426
+In this project, Scratch Cat wants to show you a dance. When you
+click on him, he should do a dance while a drum beat plays along
+with him. However, as soon as he starts to dance he stops but the
+drumming continues without him! How do we fix this program?
+
+! DEBUG IT! 2.2 http://scratch.mit.edu/projects/24268476
+In this project, when the green flag is clicked Pico should move
+towards Nano. When Pico reaches Nano, Pico should say “Tag, you’re
+it!” and Nano says “My turn!” But something is wrong! Pico doesn’t
+say anything to Nano. How do we fix the program?
+
+! DEBUG IT! 2.3 http://scratch.mit.edu/projects/24268506
+
+START HERE
+! Go to the Unit 2 Debug It! Studio:
+http://scratch.mit.edu/studios/475539
+! Test and debug each of the five debugging
+challenges in the studio.
+! Write down your solution or remix the buggy
+program with your solution.
+
+This project is programmed to draw a happy face but something is
+not quite right! The pen continues to draw from one of the eyes to
+the smile when it should not be doing so. How do we fix the
+program?
+
+! DEBUG IT! 2.4 http://scratch.mit.edu/projects/23267140
+In this project, when the green flag is clicked an animation of a
+flower growing begins and stops once it has fully bloomed. But
+something is not quite right! Instead of stopping when all the petals
+have bloomed, the animation starts all over. How do we fix this
+program?
+
+! DEBUG IT! 2.5 http://scratch.mit.edu/projects/23267245
+
+G
+N
+I
+L
+E
+E
+F
+STUCK?
+
+THESE
+AY! TRY
+K
+O
+S
+’
+T
+THA
+
+THINGS…
+
+! Make a list of possible bugs in the program.
+! Keep track of your work! This can be a useful reminder of
+what you have already tried and point you toward what to
+try next.
+! Share and compare your problem finding and problem
+solving approaches with a neighbor until you find
+something that works for you!
+
+In this project, the Happy Birthday song starts playing when the
+green flag is clicked. Once the song finishes, instructions should
+appear telling us to "click on me to blow out the candles!" But
+something is not working! The instructions to blow out the candles
+are shown while the birthday song is playing rather than after it
+finishes. How do we fix this program?
+
+FINISHED?
++  Add code commentary by right clicking on blocks in your scripts.
+This can help others understand different parts of your program!
++  Discuss your testing and debugging practices with a partner –
+make notes of the similarities and differences in your strategies.
++  Help a neighbor!
+
+

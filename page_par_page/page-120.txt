@@ -1,0 +1,74 @@
+* page-120
+UNIT 6 ACTIVITY
+
+PROJECT
+PLANNING
+S U G G E S T E D
+
+OBJECTIVES
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Taking some time at the start of the final project to explore
+ideas, identify tasks involved in completing the project, and
+list what is (and isn’t) already known can be very beneficial
+for successful project completion.
+! Divide the group into project teams. Optionally, distribute the
+Project Planning and Project Sketches handouts to each
+team or individual.
+! Review different elements for planning projects (project
+sketches, outline of tasks, list of resources, storyboards/
+wireframes). Give the teams 15 minutes to brainstorm
+ideas, plans, and resources for their projects. Students who
+already have a clear concept and plan are welcome to start
+working on their project design.
+! Optionally, collect the completed Project Planning and
+Project Sketches handouts at the end of this activity to
+return to students at the beginning of Design Sprint
+sessions.
+
+NOTES
++  Although planning is helpful, it shouldn’t be all-consuming
+or the only way of doing things. Different students will
+want and need to plan and tinker to different extents – and
+different phases of the project will require different
+approaches. Multiple design and development styles should
+be encouraged and accommodated.
+
+116
+
+By completing this activity, students will:
++  identify an appropriately-scoped project to work on
++  develop an outline of activities or tasks required to
+complete the project
++  generate a preliminary list of resources required to
+complete the project
+
+RESOURCES
+! Project Planning handout
+! Project Sketches handout
+
+REFLECTION PROMPTS
++  What project do I want to create?
++  What steps will I take to develop my project?
++  What resources (e.g., people, sample projects) do I
+already have to develop my project?
++  What resources (e.g., people, sample projects) might I
+need to develop my project?
+
+REVIEWING STUDENT WORK
++  Is the project appropriately scoped for the amount of
+time and resources available for this hackathon?
++  How can you make resources accessible to students who
+need them?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

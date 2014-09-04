@@ -1,0 +1,56 @@
+* page-009
+HOW SHOULD I USE THIS GUIDE?
+USE AS MUCH
+OR AS LITTLE AS
+YOU LIKE
+
+DESIGN
+NEW
+ACTIVITIES
+
+REMIX
+INCLUDED
+ACTIVITIES
+
+CHOOSE
+YOUR OWN
+ADVENTURE!
+
+We encourage you to use as much or as little of the
+guide as you like, to design new activities, and to
+remix the included activities. No matter your prior
+experience or expertise, we think of every educator
+as a co-designer of the Creative Computing
+experience. We would love to learn about what
+you’re doing, so we encourage you to document and
+share your experiences with us and with other
+educators via the ScratchEd community at
+http://scratched.gse.harvard.edu
+We are releasing this guide under a Creative Commons
+Attribution-ShareAlike license, which means that you are
+completely free to use, change, and share this work, as
+long as you provide appropriate attribution and give others
+access to any derivative works.
+
+WHERE DID THIS GUIDE COME FROM?
+This guide was developed by members of the ScratchEd research team at the Harvard Graduate School of Education – Christan Balch,
+Michelle Chung, and Karen Brennan. Jeff Hawson provided editing support and inexhaustible enthusiasm.
+ 
+The guide contents draw on a previous version of the Creative Computing Guide (released in 2011) and on the Creative Computing Online
+Workshop (hosted in 2013). These were made possible with support from the National Science Foundation through grant DRL-1019396, the
+Google CS4HS program, and the Code-to-Learn Foundation.
+ 
+We are enormously appreciative of the numerous educators who have used the previous version of this guide and participated in
+workshops. In particular, we would like to thank the educators who extensively tested the first guide (Russell Clough, Judy Hoffman, Kara
+Kestner, Alvin Kroon, Melissa Nordmann, and Tyson Spraul) and the educators who extensively reviewed the current guide (Ingrid
+Gustafson, Megan Haddadi, Keledy Kenkel, Adam Scharfenberger, and LeeAnn Wells).
+We are also greatly appreciative of our collaborators. We would like to thank Wendy Martin, Francisco Cervantes, and Bill Tally from
+Education Development Center’s Center for Children & Technology, and Mitch Resnick from the MIT Media Lab for their extensive
+contributions in developing the computational thinking framework and resources. We would like to thank the many amazing Harvard
+Graduate School of Education interns who have contributed to the guide development over the past several years since the initial version in
+2011, including Vanity Gee, Vanessa Gennarelli, Mylo Lam, Tomoko Matsukawa, Aaron Morris, Matthew Ong, Roshanak Razavi, Mary Jo
+Madda, Eric Schilling, and Elizabeth Woodbury.
+
+5
+
+

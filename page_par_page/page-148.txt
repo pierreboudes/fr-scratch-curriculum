@@ -1,0 +1,46 @@
+* page-148
+SUPPORTING COMPUTATIONAL PRACTICES IN THE CLASSROOM
+The following instrument can be used to help you reflect on how you are supporting computational practices in your
+learning environment – which may be a classroom, a library, or another learning environment. The purpose of the
+instrument is to help you notice the types of opportunities to learn that you are designing and supporting.
+
+EXPERIMENTING AND ITERATING: developing a little bit, then trying it out, then developing some more
+The activity provided opportunities for students to…
+
+NONE
+
+SOME
+
+LOTS
+
+build a project step by step
+try things out as you go
+make revisions based on what happens
+try different ways to do things, or try new things
+NOTES FOR NEXT TIME:
+If none, how can I make room, or build time, for more?
+If some, how can I deepen, or strengthen, those activities?
+If lots, what have I noticed, or learned?
+
+TESTING AND DEBUGGING: making sure things work – and finding and solving problems when they arise
+The activity provided opportunities for students to…
+
+NONE
+
+SOME
+
+LOTS
+
+observe what happens when you run your project
+describe what is different from what you want
+read through the scripts to investigate the cause of the problem
+make changes and test to see what happens
+consider other ways to solve the problem
+NOTES FOR NEXT TIME:
+If none, how can I make room, or build time, for more?
+If some, how can I deepen, or strengthen, those activities?
+If lots, what have I noticed, or learned?
+
+144
+
+

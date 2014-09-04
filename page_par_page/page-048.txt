@@ -1,0 +1,67 @@
+* page-048
+UNIT 2 ACTIVITY
+
+BUILD-A-BAND
+S U G G E S T E D
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Optionally, show example projects from the Build-a-Band
+studio and have the Build-a-Band handout available to guide
+students.
+! Give students time to create interactive instruments by
+pairing sprites with sounds. Encourage them to experiment
+with different ways to express sounds in Scratch by
+exploring other blocks in the Sounds category or using the
+editing tools within the Sounds tab.
+! Allow students to demonstrate their bands to one another
+or let students walk around to interact with classmates’
+instruments. We recommend a gallery walk: have students
+put their projects in presentation mode and then invite
+them to walk around and explore each other’s projects.
+Optionally, have students add their projects to the Build-aBand studio or a class studio.
+
+OBJECTIVES
+
+By completing this activity, students will:
++  create a program that combines interactive sprites with
+interesting sounds
++  develop greater fluency with sequence, loops, events,
+and parallelism
++  practice experimenting and iterating in building up
+project creations
+
+RESOURCES
+! Build-a-Band handout
+! Build-a-Band studio
+http://scratch.mit.edu/studios/475523
+
+REFLECTION PROMPTS
++  What did you do first?
++  What did you do next?
++  What did you do last?
+
+REVIEWING STUDENT WORK
++  Do projects make creative use of sounds?
++  Are the sprites in the projects interactive?
+
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  To share as a whole group, have students perform their
+Scratch instruments together to form a class band!
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+44
+
+

@@ -1,0 +1,101 @@
+* page-060
+UNIT 3
+OVERVIEW
+THE
+THE“BIG
+“BIGIDEA”
+IDEA”
+In the introduction to his doctoral dissertation exploring
+remix culture, Andres Monroy-Hernandez (the lead
+designer of the initial version of the Scratch online
+community) included three quotes:
+Building on other people’s work has been a
+longstanding practice in programming, and has only
+been amplified by network technologies that provide
+access to a wide range of other people’s work. An
+important goal of creative computing is to support
+connections between learners through reusing and
+remixing. The Scratch authoring environment and online
+community can support young designers in this key
+computational practice by helping them find ideas and
+code to build upon, enabling them to create more
+complex projects than they could have created on their
+own.
+The activities in this unit offer initial ideas and strategies
+for cultivating a culture that supports reusing and
+remixing. How can you further support sharing and
+connecting?
+
+56
+
+We are li
+ke
+the shou dwarfs standing
+lders of
+upon
+g
+able to s
+ee more iants, and so
+and see
+than the
+farther
+ancients.
+– Bernar
+d of Char
+tres, circa
+1130
+
+A dwarf
+o
+shoulders n a giant’s
+s
+of the tw ees farther
+o.
+– George
+Herbert,
+1651
+
+If I have
+se
+b y s t a n en further it is
+d
+shoulders i n g o n t h e
+of giants
+.
+– Isaac N
+ewton, 16
+76
+
+LEARNING OBJECTIVES
+
+KEY WORDS, CONCEPTS, & PRACTICES
+
+Students will:
++  gain familiarity in and build understandings of the benefits of
+reusing and remixing while designing
++  develop greater fluency with computational concepts (events and
+parallelism) and practices (experimenting and iterating, testing
+and debugging, reusing and remixing)
++  explore computational creation within the genre of stories by
+designing collaborative narratives
+
++  reusing and
+remixing
++  make a block
+
++  backpack
++  stage
++  pass-it-on story
+
++  pair programming
++  scratch screening
++  design demo
+
+NOTES
++  Reusing and remixing support the development of critical
+code-reading capacities and provoke important questions
+about ownership and authorship. Consider different strategies
+for how you might facilitate, discuss, and assess cooperative
+and collaborative work.
+
+

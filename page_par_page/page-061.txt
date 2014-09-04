@@ -1,0 +1,72 @@
+* page-061
+CHOOSE YOUR OWN ADVENTURE
+This unit focuses on helping students develop their storytelling
+and remixing abilities through a variety of hands-on and offcomputer design activities, providing opportunities for students
+to work collaboratively and build on the creative work of others.
+Building on initial experiences from Unit 2, the activities in this
+unit are designed to help students develop deeper fluency in the
+computational concepts of events and parallelism and the
+computational practices of experimenting and iterating and
+reusing and remixing. Each capacity-building activity is
+designed to help students build up storytelling projects by
+discovering new blocks and methods for programming
+interactions between sprites and backdrops, culminating in a
+Pass It On project.
+
+POSSIBLE PATH
+SESSION 1	  
+
+SESSION 2	  
+
+SESSION 3	  
+
+SESSION 4	  
+
+SESSION 5	  
+
+CHARACTERS
+
+CONVERSATIONS
+
+SCENES
+
+DEBUG IT!
+
+CREATURE
+CONSTRUCTION
+
+PASS IT ON
+
+Create your own
+Scratch blocks
+using Make a
+Block.
+
+How do you
+coordinate
+interactions
+between sprites
+using timing and
+broadcasting?
+
+What's the
+difference
+between the Stage
+and sprites?
+
+Help!
+Can you debug
+these five Scratch
+programs?
+
+What can we
+create by building
+on others’ work?
+
+What can we
+create by building
+on others’ work?
+
+57
+
+

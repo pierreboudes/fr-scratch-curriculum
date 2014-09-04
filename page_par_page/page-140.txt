@@ -1,0 +1,44 @@
+* page-140
+gallery walk: A sharing activity in which students put their projects in presentation mode and then walk around and explore each
+other’s projects.
+hardware and extensions: Supplemental materials that connect the digital world of Scratch with the physical world. Examples
+of hardware extensions include: LEGO WeDo, PicoBoard, and MaKey MaKey.
+interactive collage: A Scratch project that incorporates a variety of clickable sprites.
+looks: One of the ten categories of Scratch blocks. They are color-coded purple, and are used to control a sprite's appearance.
+loops: The computational concept of running the same sequence multiple times.
+make a block: A feature found within the More Blocks category that allows students to create and define their own custom block or
+procedure.
+motion: One of the ten categories of Scratch blocks. They are color-coded medium-blue, and are used to control a sprite’s movement.
+operators: The computational concept of supporting mathematical and logical expressions.
+paint editor: Scratch's built-in image editor. Many Scratchers create their own sprites, costumes, and backdrops using it.
+pair programming: A programming methodology in which developers pair up and work side-by-side on a project.
+parallelism: The computational concept of making things happen at the same time.
+pass-it-on story: A Scratch project that is started by a pair of people, and then passed on to two other pairs to extend and
+reimagine.
+peer interviews: A sharing activity in which students take turns interviewing one another about their processes of reflection, selfassessment, and research.
+pitch: An activity in which students either announce a project idea in order to recruit other team members, or promote their interests,
+skills, and talents in order to be recruited by other teams.
+presentation mode: A display mode in Scratch that allows projects to be viewed at an enlarged size. It is accessed by pressing the
+button on the top left of the Scratch program. This mode is also called full screen mode or enlarged screen.
+profile page: A page on the Scratch online community dedicated to displaying information about a Scratch user, such as projects they
+have created or bookmarked (a.k.a. “favorited”).
+project editor: A feature of the Scratch online community that allows projects to be modified. This includes the script area (where
+scripts are assembled), the sprite area (where sprites can be manipulated), and the stage area (where sprites are positioned and
+where backgrounds can be accessed).
+red, yellow, green: A reflection and sharing activity in which individuals identify aspects of their projects as not going well or still
+needing work (“red”), confusing or contentious (“yellow”), or working well (“green”).
+remix: A creative work that is derived from an original work (or from another remix). A remix typically introduces new content or
+stylistic elements, while retaining a degree of similarity to the original work.
+reusing and remixing: The computational practice of making something by building on existing projects or ideas.
+Scratch screening: A sharing activity in which students gather around to observe each other’s Scratch projects.
+scripts: One or more Scratch blocks connected together to form a sequence. Scripts begin with an event block that responds to input
+(e.g., mouse click, broadcast). When triggered, additional blocks connected to the event block are executed one at a time.
+sensing: One of the ten categories of Scratch blocks. They are color-coded light-blue, and are used to detect different forms of input
+(e.g., mouse position) or program state (e.g., sprite position).
+sequence: The computational concept of identifying a series of steps for a task.
+136
+
+showcase: A strategy for sharing in which students present their final projects to others and reflect on their design processes and
+computational creation experiences.
+
+

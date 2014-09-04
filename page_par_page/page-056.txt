@@ -1,0 +1,75 @@
+* page-056
+UNIT 2 ACTIVITY
+
+MUSIC VIDEO
+S U G G E S T E D
+
+T I M E
+
+45–60 MINUTES
+
+ACTIVITY DESCRIPTION
+! Introduce students to the idea of creating a music video in
+Scratch that combines music with animation. Optionally, show
+a few project examples from the Music Video studio.
+! Give students open-ended time to work on their projects,
+with the Music Video handout available to provide guidance
+and inspiration. Encourage students to give credit on the
+project page for using others’ ideas, music, or code.
+! Help students give and receive feedback while developing
+their projects. We suggest checking in with a neighbor: have
+students stop midway and share their works-in-progress with
+one other person or in their critique groups (see the Unit 0
+Critique Group activity) to ask for feedback. Optionally, invite
+students to add their projects to the Music Video studio or a
+class studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  To further personalize projects, help students include a
+favorite song or record themselves singing or playing an
+instrument, using features under the Sounds tab.
++  Questions about remixing and plagiarism may arise during
+this activity. Take this opportunity to facilitate a discussion
+about giving credit and attribution using the Scratch FAQ
+about remixing: http://scratch.mit.edu/help/faq/#remix
+52
+
+OBJECTIVES
+
+By completing this activity, students will:
++  be able to create a project that combines animation
+and music by working on a self-directed music video
+project
++  gain more familiarity with sprites, costumes, and
+sounds
+
+RESOURCES
+! Music Video handout
+! Music Video studio
+http://scratch.mit.edu/studios/475517
+
+REFLECTION PROMPTS
++  What was a challenge you overcame? How did you
+overcome it?
++  What is something you still want to figure out?
++  How did you give credit for ideas, music, or code that you
+borrowed to use in your project?
+
+REVIEWING STUDENT WORK
++  Did the projects combine sprites and sound?
++  What parts of the projects did students choose to
+animate?
++  Are there certain blocks or concepts introduced up until
+now that students might still be struggling with? How
+might you help?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

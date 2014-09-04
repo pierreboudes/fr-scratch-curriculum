@@ -1,0 +1,33 @@
+* page-067
+SCENES
+WHAT IS THE DIFFERENCE BETWEEN THE
+STAGE AND SPRITES?
+In this activity, you will create a project that
+experiments with backdrops, like a story with
+multiple scenes or a slideshow.
+
+START HERE
+! Choose from the library, paint, or upload multiple
+backdrops into your project.
+! Experiment with blocks from the Looks and Events
+categories to initiate switching backdrops.
+! Add scripts to the stage and sprites to coordinate
+what happens when the backdrop changes in your
+project!
+
+THINGS TO TRY
+! Look for blocks under the sprites and the
+stage related to backdrop and test them out
+to see what they do!
+! Need more inspiration? Explore the Scratch
+online community to discover projects that
+use multiple backdrops.
+
+FINISHED?
++  Add your project to the Scenes Studio: http://scratch.mit.edu/studios/475550
++  Challenge yourself to do more! Add more backdrop changes to your project.
++  Help a neighbor!
++  Return to one of your previous projects or find a project you are inspired by and
+remix it by adding switching backdrops.
+
+

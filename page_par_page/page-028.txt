@@ -1,0 +1,126 @@
+* page-028
+UNIT 1
+OVERVIEW
+THE “BIG IDEA”
+Many of the educators that we have worked with over the
+years wrestle with two questions when getting started with
+creative computing: “What’s the best way of helping learners
+get started?” and “What do I, as teacher, need to know?”
+The writings of Seymour Papert (a renowned mathematician,
+educator, and major influence on the development of Scratch
+through the Logo programming language) serve as
+inspiration for thinking about these questions.
+With respect to the first question, two extreme positions tend
+to be taken up. Either learners need to be told what to do
+and should have highly structured experiences – or learners
+need to be left totally alone to explore under their own
+direction. Papert, a proponent of the notion that young
+learners should act as advocates for and explorers of their
+own thinking and learning, encouraged teachers to seek a
+balance between teaching and learning. Throughout the
+guide, we vary the amount of structure in the activities in an
+effort to provide balance.
+With respect to the second question, educators sometimes
+worry that they don’t “know” enough about Scratch to be
+able to help others. We encourage you to take a broad view
+of what it means to “know” Scratch. You don’t need to know
+everything about the Scratch interface or how to solve every
+problem that a learner encounters. But, as Papert noted,
+educators can serve as cognitive guides, asking questions
+and helping break down problems into manageable pieces.
+
+24
+
+As they
+p
+revelation uzzled together
+: “Do yo
+u mean,” the child had
+really do
+n’t know
+how to fi he said, “that a
+yet know
+y
+x it?” Th
+e child d ou
+revealed how to say it,
+id
+not
+to h
+but wha
+t had b
+been eng im was that he
+een
+an
+ag
+incident is ed together in a d the teacher had
+re
+p
+child ente oignant. It speak search project. T
+he
+s of all th
+red into te
+e times th
+achers’ g
+together
+a
+is
+”
+mes of “le
+t’s do tha
+collabora all the while
+t
+tion was
+a fiction. knowing that
+setup; inv
+t
+D
+h
+is
+e
+ention ca
+nnot be s covery cannot be
+cheduled
+a
+.
+(Papert,
+1980, p.
+115)
+
+KEY WORDS, CONCEPTS, & PRACTICES
++  experimenting
+and iterating
++  testing and
+debugging
++  sequence
+
++  sprite
++  motion
++  looks
++  sound
++  costume
+
++  backdrop
++  tips window
++  remix
++  interactive collage
++  pair-share
+
+LEARNING OBJECTIVES
+
+NOTES
+
+Students will:
++  build on initial explorations of the Scratch environment by
+creating an interactive Scratch project
++  be introduced to a wider range of Scratch blocks
++  become familiar with the concept of sequence
++  practice experimenting and iterating while creating projects
+
++  Make sure students already have a Scratch account for saving and
+sharing their projects online.
++  Think about how you plan to access your students’ work. For
+example, you can create class studios to collect projects, have
+students email you project links, or start a class blog.
+
+

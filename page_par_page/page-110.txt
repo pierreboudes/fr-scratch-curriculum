@@ -1,0 +1,72 @@
+* page-110
+UNIT 5 ACTIVITY
+
+MY DEBUG IT!
+S U G G E S T E D
+
+T I M E
+
+15 – 3 0 M I N U T E S
+
+OBJECTIVES
+
+By completing this activity, students will:
++  become more fluent with computational practices
+(experimenting and iterating, testing and debugging,
+reusing and remixing, abstracting and modularizing)
+by designing a debugging challenge
+
+ACTIVITY DESCRIPTION
+ACTIVITY DESCRIPTION
+! Optionally, have the My Debug It! handout available to guide
+students during the activity.
+! Give students the opportunity to create their own
+debugging challenge for others to solve. Bugs can focus on
+a specific computational concept, Scratch block, interaction,
+or some other programming challenge. Encourage students
+to take inspiration from their own experiences of getting
+stuck and unstuck while developing Scratch projects.
+! Let students swap and try testing and debugging one
+another’s buggy projects. Optionally, have students add
+their debug-it program to the My Debug It! studio or a class
+studio.
+! Ask students to reflect back on their problem-creating
+approaches by responding to the reflection prompts in their
+design journals or in a group discussion.
+
+RESOURCES
+! My Debug It! handout
+! My Debug It! studio
+http://scratch.mit.edu/studios/475637
+
+REFLECTION PROMPTS
++  What was the problem?
++  Where did your inspiration come from?
++  How did you imagine others investigating and solving the
+challenge?
++  Did others have alternative approaches to finding and
+fixing the problem than what you expected? What were
+their strategies?
+
+REVIEWING STUDENT WORK
++  Do projects include a debugging challenge to solve?
++  What different testing and debugging strategies did
+students employ?
+
+NOTES
++  Remind students to include a challenge description in the
+notes of the project page on the Scratch website.
++  Got extra time or need a warm-up activity? Let students
+exercise their problem-seeking and problem-solving skills
+on other contributed debug-it programs in the My Debug It!
+studio.
+
+106
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

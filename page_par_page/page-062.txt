@@ -1,0 +1,70 @@
+* page-062
+UNIT 3 ACTIVITY
+
+CHARACTERS
+S U G G E S T E D
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Optionally, show example projects from the Characters studio
+and have the Characters handout available to guide students.
+! Give students time to create their own Scratch blocks using
+the Make a Block feature found in the More Blocks
+category. Help them design two sprites or “characters” that
+each have two behaviors. Optionally, conduct a
+walkthrough of the Make a Block feature together as a
+class.
+! Allow students to share their characters and behaviors with
+one another. We suggest the design demo activity: invite a
+few students to present their work to the class and
+demonstrate how they implemented the Make a Block
+feature. Optionally, have students add their projects to the
+Characters studio or a separate class studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  If students are struggling with figuring out how to use the
+Make a Block feature, invite them to explore how others
+implemented the feature by investigating the code of
+projects in the Characters studio.
++  Learn more about the Make a Block feature in this video
+tutorial: http://bit.ly/makeablock
+
+58
+
+OBJECTIVES
+
+By completing this activity, students will:
++  experiment with defining behaviors for characters
+using Scratch’s Make a Block feature
++  gain more familiarity with the computational concepts
+of events and parallelism and the practice of
+experimenting and iterating
+
+RESOURCES
+! Characters handout
+! Characters studio
+http://scratch.mit.edu/studios/475545
+
+REFLECTION PROMPTS
++  How would you explain Make a Block to someone else?
++  When might you use Make a Block?
+
+REVIEWING STUDENT WORK
++  Do projects include two sprites that each have two
+behaviors using the Make a Block feature?
++  Can students explain how to use the Make a Block
+feature to each other and to you?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

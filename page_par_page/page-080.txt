@@ -1,0 +1,77 @@
+* page-080
+UNIT 4 ACTIVITY
+
+STARTER
+GAMES
+
+S U G G E S T E D
+
+OBJECTIVES
+
+T I M E
+
+45–60 MINUTES
+
+ACTIVITY DESCRIPTION
+! In this activity, students will create a starter game project that
+can be revisited and extended during the Score, Extensions,
+and Interactions activities. Optionally, show the Maze, Pong,
+and Scrolling example starter projects, and have the Maze,
+Pong, and Scrolling handouts available to guide students.
+! Choose one game project to facilitate as a class or let
+students choose which game they want to create: maze,
+pong, or scrolling. Give students time to start building their
+games or let them remix one of the starter projects.
+! Encourage students to get feedback on their games-inprogress. We suggest the feedback fair activity: half of the
+students stay in their seats with their projects open while
+the other half walks around exploring projects, asking
+questions, and giving feedback, then switch sides.
+Optionally, have students add their final game projects to
+the Games studio or a class studio.
+! Ask students to respond to the reflection prompts in their
+design journals or in a group discussion.
+
+By completing this activity, students will:
++  develop greater fluency with computational concepts
+(conditionals, operators, data) and practices
+(experimenting and iterating, testing and debugging,
+reusing and remixing, abstracting and modularizing)
+by working on a self-directed game project
+
+RESOURCES
+! Maze handout
+! Maze example starter project
+http://scratch.mit.edu/projects/11414041
+! Pong handout
+! Pong example starter project
+http://scratch.mit.edu/projects/10128515
+! Scrolling handout
+! Scrolling example starter project
+http://scratch.mit.edu/projects/22162012
+! Games studio
+http://scratch.mit.edu/studios/487504
+
+REFLECTION PROMPTS
++  What was challenging about designing your game?
++  What are you proud of?
+
+REVIEWING STUDENT WORK
++  Do games include conditionals, operators, and data?
+
+NOTES
++  To celebrate and share final game creations, we
+recommend hosting an Arcade Day. Final game projects are
+placed in presentation mode; students walk around and
+play each other’s games.
++  The Scrolling game option introduces cloning. Help students
+learn more about the cloning blocks with the Cloning
+handout from Unit 5 Advanced Features.
+76
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

@@ -1,0 +1,80 @@
+* page-091
+DEBUG IT!
+HELP! CAN YOU DEBUG THESE FIVE
+SCRATCH PROGRAMS?
+In this activity, you will investigate what is
+going awry and find a solution for each of
+the five Debug It! challenges.
+
+! DEBUG IT! 4.1 http://scratch.mit.edu/projects/24271192
+In this project, the "Inventory" list should be updated every time
+Scratch Cat picks up a new item. But Scratch Cat can only pick up the
+laptop. How do we fix the program?
+
+! DEBUG IT! 4.2 http://scratch.mit.edu/projects/24271303
+In this project, Scratch Cat gets 10 points for collecting Yellow Gobos
+and loses 10 points for colliding with Pink Gobos. But something isn't
+working. How do we fix the program?
+
+! DEBUG IT! 4.3 http://scratch.mit.edu/projects/24271446
+
+START HERE
+! Go to the Unit 4 Debug It! Studio:
+http://scratch.mit.edu/studios/475634/
+
+In this project, Scratch Cat is thinking of a number between 1 and 10.
+But something is wrong with the guess checking -- it doesn't work
+consistently. How do we fix the program?
+
+! Test and debug each of the five debugging
+challenges in the studio.
+! Write down your solution or remix the buggy
+program with your solution.
+
+G
+N
+I
+L
+E
+E
+F
+STUCK?
+
+H E SE
+Y! TRY T
+A
+K
+O
+S
+’
+THAT
+
+THINGS…
+
+! Make a list of possible bugs in the program.
+! Keep track of your work! This can be a useful reminder of
+what you have already tried and point you toward what to
+try next.
+! Share and compare your problem finding and problem
+solving approaches with a neighbor until you find
+something that works for you!
+
+! DEBUG IT! 4.4 http://scratch.mit.edu/projects/24271475
+In this project, the "# of hits" display should increase by 1 every
+time the Scratch Cat is hit by a tennis ball. But the "# of hits"
+increases by more than 1 when Scratch Cat is hit. How do we fix the
+program?
+
+! DEBUG IT! 4.5 http://scratch.mit.edu/projects/24271560
+In this project, Scratch Cat is navigating a maze to get to the yellow
+rectangle. But Scratch Cat can walk through walls. How do we fix the
+program?
+
+FINISHED?
++  Add code commentary by right clicking on blocks in your scripts.
+This can help others understand different parts of your program!
++  Discuss your testing and debugging practices with a partner.
+Make note of the similarities and differences in your strategies.
++  Help a neighbor!
+
+

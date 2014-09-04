@@ -1,0 +1,68 @@
+* page-066
+UNIT 3 ACTIVITY
+
+SCENES
+S U G G E S T E D
+
+OBJECTIVES
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Optionally, show example projects from the Scenes studio and
+have the Scenes handout available to guide students.
+! Give students time to develop a project that includes
+multiple scene changes using different backdrops, such as
+in a slideshow. Challenge students to explore and
+manipulate scripts in the Stage to initiate backdrop
+changes.
+! Allow students to share their projects with one another. We
+suggest the design demo activity: invite a few students to
+present their work to the class and demonstrate how they
+implemented switching backdrops. Optionally, have students
+add their projects to the Scenes studio or a class studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  If students are having trouble figuring out how to switch
+backdrops, encourage them to tinker with blocks under the
+Looks category, especially the switch backdrop to, switch
+backdrop to and wait, and next backdrop blocks.
+
+By completing this activity, students will:
++  be able to create a project that experiments with
+changing backdrops, like a story with multiple scenes
+or a slideshow
++  gain more familiarity with the computational concepts
+of events and parallelism and the practice of
+experimenting and iterating
+
+RESOURCES
+! Scenes handout
+! Scenes studio
+http://scratch.mit.edu/studios/475550
+
+REFLECTION PROMPTS
++  What does the Stage have in common with sprites?
++  How is the Stage different from sprites?
++  How do you initiate a sprite’s actions in a scene?
++  What other types of projects (beyond animations) use
+scene changes?
+
+REVIEWING STUDENT WORK
++  Do projects successfully coordinate multiple scenes using
+changing backdrops?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+62
+
+

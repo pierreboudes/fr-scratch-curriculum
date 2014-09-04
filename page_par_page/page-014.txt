@@ -1,0 +1,66 @@
+* page-014
+UNIT 0 ACTIVITY
+
+INTRODUCING
+SCRATCH
+S U G G E S T E D
+
+OBJECTIVES
+
+T I M E
+
+5 – 15 M I N U T E S
+
+ACTIVITY DESCRIPTION
+! Ask students about their experiences with computers using the
+reflection prompts to the right.
+! Introduce students to creative computing with Scratch and the
+range of projects they will be able to create by showing the
+Scratch overview video and some sample projects that your
+students will find engaging and inspiring. Explain that over the
+next several sessions they will be creating their own interactive
+computational media with Scratch.
+! What will you create? Ask students to imagine what types of
+projects they want to create with Scratch.
+
+By completing this activity, students will:
++  be introduced to computational creation with the
+Scratch programming environment by watching the
+Scratch overview video or exploring sample projects
++  be able to imagine possibilities for their own Scratchbased computational creation
+
+RESOURCES
+! projector for showing Scratch overview video (optional)
+! Scratch overview video
+http://vimeo.com/65583694
+http://youtu.be/-SjuiawRMU4
+! sample projects studio
+http://scratch.mit.edu/studios/137903
+
+REFLECTION PROMPTS
++  What are the different ways you interact with computers?
++  How many of those ways involve being creative with
+computers?
+
+REVIEWING STUDENT WORK
++  Did students brainstorm a diverse range of project ideas?
+If not, try showing a wide variety of projects to give
+students a sense of the possibilities.
+
+NOTES
++  If you don’t have internet access, download the Scratch
+overview video from Vimeo before class, available at
+http://vimeo.com/65583694
++  Instead of writing out their answers to the reflections
+prompts, encourage students to get creative by drawing
+their responses. (e.g., “Draw different ways you interact
+with computers.”)
+10
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

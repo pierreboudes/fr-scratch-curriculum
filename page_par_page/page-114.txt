@@ -1,0 +1,57 @@
+* page-114
+UNIT 6
+OVERVIEW
+THE “BIG IDEA”
+In this final unit, students will build on their creative computing
+experiences by engaging in the design of an open-ended project
+of their choosing. To help you and your students tackle this
+open-ended design experience, we were inspired to frame this
+unit as a hackathon. With its ethos of embracing just-in-time
+learning and problem solving, encouraging iterative planningmaking-sharing, and celebrating a connected and collaborative
+environment, the hackathon is an ideal creative computing
+culminating experience.
+
+110
+
+School is
+some stu done but
+dents do
+not
+seem to n
+Busy deb otice.
+their #scr ugging
+atch gam
+e.
+A team e
+@Sheenaffort.
+1010
+
+LEARNING OBJECTIVES
+
+KEY WORDS, CONCEPTS, & PRACTICES
+
+Students will:
++  be introduced to the format of a hackathon event
++  demonstrate knowledge of computational concepts (sequence,
+loops, events, parallelism, conditionals, operators, data) and
+practices (experimenting and iterating, testing and debugging,
+reusing and remixing, abstracting and modularizing) by
+defining, developing, and presenting a personally meaningful,
+self-directed project
++  have multiple opportunities for collaboration by working in peer
+teams, sharing skills, and giving and receiving multiple rounds
+of feedback
+
++  hackathon
++  design sprint
+
++  project pitch
++  unfocus group
+
++  showcase
+
+NOTES
++  This unit can accommodate either independent or collaborative
+group projects. Pick one option or allow students to choose.
+
+

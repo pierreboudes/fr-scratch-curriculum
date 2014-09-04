@@ -1,0 +1,75 @@
+* page-088
+UNIT 4 ACTIVITY
+
+INTERACTIONS
+S U G G E S T E D
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! On their own or in small groups of 2-3 people, challenge
+students to further explore Scratch by creating Scratch
+programs that solve each of the nine Interactions
+programming puzzles. These Interactions puzzles explore
+Sensing blocks, engaging some of the more advanced
+concepts in Scratch related to interactivity. Optionally, have
+the Interactions handout available to guide students during
+the activity.
+! Each puzzle can have several possible solutions. Invite
+students or groups to share different solutions and
+strategies. We suggest the Pair-Share or Design Demo
+activity to allow students to share their work and describe
+their process. Optionally, have students add their projects to
+the Interactions studio or a class studio.
+! Ask students to think back on the challenge by responding
+to the reflection prompts in their design journals or in a
+group discussion.
+
+NOTES
++  Choose particular challenges that highlight new blocks or
+concepts that you would like students to explore. Or let
+students invent their own interaction puzzle prompts.
++  Repurpose these puzzles as an unstructured activity for
+students who finish other activities early or as a warm-up
+challenge. Create a puzzle jar: print out, cut, fold, and place
+copies of each puzzle description in a jar. Then, let students
+pick puzzles from the jar to solve.
+84
+
+OBJECTIVES
+
+By completing this activity, students will:
++  explore different approaches to making projects
+interactive by solving a series of nine programming
+puzzles
++  gain more fluency in the concepts of conditionals,
+operators, and data, and the practice of testing and
+debugging
+
+RESOURCES
+! Interactions handout
+! Interactions studio
+http://scratch.mit.edu/studios/487213
+
+REFLECTION PROMPTS
++  Which puzzles did you work on?
++  What was your strategy for solving the puzzles?
++  Which puzzles helped you think about your game
+project?
+
+REVIEWING STUDENT WORK
++  Are the puzzles solved?
++  Did students explore other approaches for solving the
+puzzles?
++  Are there certain blocks or concepts students are still
+struggling with? How might you help?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

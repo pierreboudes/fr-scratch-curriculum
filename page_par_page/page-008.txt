@@ -1,0 +1,81 @@
+* page-008
+Get comfortable with the key computational concept of
+sequence through a series of activities that provide
+varying levels of structure – from a step-by-step tutorial,
+to a creative challenge using a limited number of blocks,
+to open-ended explorations through making a project
+about yourself.	  
+
+Play with visuals and audio in these activities focused on
+animation, art, and music. Explore Scratch’s focus on
+media – and the key computational concepts of loops,
+events, and parallelism – by building your own band,
+designing animated creatures, and creating a music video
+for a favorite song.
+
+UNIT 4 - GAMES
+UNIT 5 – DIVING DEEPER
+
+Prepare for the culture of creative computing by exploring
+possibilities and setting up technical infrastructure (e.g.,
+creating Scratch accounts, starting design journals) and
+social infrastructure (e.g., establishing critique groups).
+Dive into an initial creative experience by making
+something “surprising” happen to a Scratch character.
+
+UNIT 6 - HACKATHON
+
+UNIT 2 - ANIMATIONS
+
+UNIT 1 - EXPLORING
+
+UNIT 0 – GETTING STARTED
+
+This guide is organized in seven units – from an
+initial preparatory unit to a culminating projectbased unit – with each unit typically including six
+activities. A summary of each unit follows:
+
+UNIT 3 - STORIES
+
+WHAT IS INCLUDED IN THIS GUIDE?
+Create new interactive worlds through collaborative
+storytelling. Begin by developing characters, learning to
+code conversations, and then situating those characters
+and conversations in shifting scenes. Combine characters,
+conversations, and scenes in a larger story project that is
+passed along to other creators to further develop – and
+possibly reimagine entirely!
+
+Connect fundamental game mechanics such as score
+and levels to key computational concepts, such as
+variables, operators, and conditionals. Analyze your
+favorite games, imagine new ones, and practice game
+design by implementing (and extending) classic games,
+like Pong.
+
+Before the culminating unit, take a moment to revisit
+work from prior units, further exploring advanced
+concepts or helping others by designing new activities or
+debugging challenges.
+
+Put all of the computational concepts and practices into
+action by designing and developing a project of your
+own through iterative cycles of planning, making, and
+sharing.
+
+Assessment strategies are described throughout the guide, and several assessment instruments are included in the guide appendix. Our
+approach to assessment is process-oriented, with a focus on creating opportunities for students to talk about their own (and others’)
+creations and creative practices. There are many forms of process-oriented data that could be collected and various strategies are
+suggested throughout the guide, such as:
+ 
+
++  supporting conversations with and among students about their projects, recorded through audio, video, or text
++  examining portfolios of projects
++  maintaining design journals
+ 
+
+We view assessment as something that is done with students, to support their understanding of what they already know and what they still
+want to learn. Assessment can involve a variety of participants, including the creators, their peers, teachers, parents, and others.
+4
+
+

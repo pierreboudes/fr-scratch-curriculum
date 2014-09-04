@@ -1,0 +1,70 @@
+* page-032
+UNIT 1 ACTIVITY
+
+STEP-BY-STEP
+S U G G E S T E D
+
+T I M E
+
+15 – 3 0 M I N U T E S
+
+ACTIVITY DESCRIPTION
+! Help students sign in to their Scratch accounts and click on
+the Create button at the top of the Scratch website to open
+the project editor. Optionally, have the Step-by-Step handout
+and Scratch Cards available to guide students during the
+activity.
+! Have students open the Tips window and follow the Getting
+Started with Scratch step-by-step tutorial to create a dancing
+cat program. Encourage students to add other blocks and
+experiment with motion, sprites, looks, costumes, sound, or
+backdrops to make the project their own.
+! Let students share their first Scratch creations with one
+another! Optionally, help students share and add their
+projects to the Step-by-Step studio or a class studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or as a group discussion.
+
+NOTES
++  If they don’t have one already, help learners create a
+Scratch account using the Unit 0 Scratch Account activity, so
+that students can save and share their first Scratch project
+with friends and family.
++  Remind students how to add a project to a studio with the
+Unit 0 Scratch Studio activity or handout.
+
+28
+
+OBJECTIVES
+
+By completing this activity, students will:
++  create a dancing cat in Scratch by following a step-bystep tutorial
++  experience building up a program by experimenting
+and iterating
+
+RESOURCES
+! Step-by-Step handout
+! Step-by-Step studio
+http://scratch.mit.edu/studios/475476
+! Scratch Cards
+http://scratch.mit.edu/help/cards
+
+REFLECTION PROMPTS
++  What was surprising about the activity?
++  How did it feel to be led step-by-step through the activity?
++  When do you feel most creative?
+
+REVIEWING STUDENT WORK
++  Were students able to open Scratch and find the Tips
+Window?
++  Were students able to create a dancing cat?
++  Were students able to save and share projects?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

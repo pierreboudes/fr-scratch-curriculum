@@ -1,0 +1,72 @@
+* page-064
+UNIT 3 ACTIVITY
+
+CONVERSATIONS
+S U G G E S T E D
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Optionally, explore the Penguin Joke starter project as a
+group and have the Conversations handout available to guide
+students.
+! Invite students to see inside the Penguin Joke starter project
+to observe how the conversation is animated using wait
+blocks. Have students use the remix function and redesign
+the Penguin Joke project to coordinate the conversation
+using the broadcast, broadcast and wait, and when I receive
+blocks.
+! Encourage students to share their joke projects with one
+another. We suggest the design demo activity: invite a few
+students to present their work to the class and demonstrate
+how they implemented broadcast. Optionally, have students
+add their projects to the Conversations studio or a class
+studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  If students are having trouble understanding how to use the
+broadcast and when I receive block pair, invite them to
+explore the code of example projects in the Broadcast
+Examples studio: http://scratch.mit.edu/studios/202853
+
+OBJECTIVES
+
+By completing this activity, students will:
++  explore two different strategies for synchronizing
+interactions between sprites (timing and broadcasting)
+by remixing a joke project
++  develop greater familiarity with the computational
+concept of events and parallelism and the practice of
+reusing and remixing
+
+RESOURCES
+! Conversations handout
+! Penguin Joke starter project
+http://scratch.mit.edu/projects/10015800
+! Conversations studio
+http://scratch.mit.edu/studios/475547
+
+REFLECTION PROMPTS
++  How would you describe broadcast to someone else?
++  When would you use timing in a project? When would
+you use broadcasting?
+
+REVIEWING STUDENT WORK
++  Do projects use the broadcast and when I receive blocks?
++  Can students explain how to use the broadcast, broadcast
+and wait, and when I receive blocks?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+60
+
+

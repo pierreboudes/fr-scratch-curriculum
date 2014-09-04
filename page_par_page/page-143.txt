@@ -1,0 +1,37 @@
+* page-143
+STANDARDS
+The activities in this guide make connections to several different K-12 curriculum standards, including the Common
+Core State Standards, the CSTA K-12 Computer Science Standards, and ISTE NETS. We have included connections to
+Common Core Standards as an example.
+For more connections, please visit the guide site at http://scratched.gse.harvard.edu/guide
+Common Core State Standards for Mathematics 2010
+http://www.corestandards.org/wp-content/uploads/Math_Standards.pdf
++  Make sense of problems and persevere in solving them – Many guide activities engage students in solving debugging challenges,
+which encourage students to discover different ways of finding and solving problems. Example activity: Unit 1 - 4 Debug It!
++  Reason Abstractly and Quantitatively – Students can express abstract concepts and demonstrate their understandings of quantitative
+relationships such as variables through visual representations designed in Scratch. Example activity: Unit 4 Score
++  Model with Mathematics – Certain activities in the guide challenge students to represent previously learned equations, data
+comparisons, or other mathematical relationships as Scratch programs. Example activity: Unit 4 Interactions
++  Attend to precision – On- and off-screen activities help students recognize the importance of attending to detail when specifying
+instructions or a sequence of code intended to elicit a particular outcome. Example activity: Unit 1 Programmed to Dance
++  Look for and Make Use of Structure – Looking through scripts during a debugging challenge, reading through someone else’s project
+code while remixing a project, or reviewing work to build up more complex programs can engage students in looking closely to discern
+repeated patterns or structure within their own or others’ Scratch programs. Example activity: Unit 3 Conversations
+Common Core State Standards for English Language Arts/Literacy 2010
+http://www.corestandards.org/wp-content/uploads/ELA_Standards.pdf
++  They demonstrate independence. – Most activities and projects in the guide are designed to be self-directed or can be easily adjusted to
+accommodate independent work, although collaborative projects and group work are encouraged. Example activity: Unit 1 About Me
++  They respond to the varying demands of audience, task, purpose, and discipline. – Students are made aware of varying types of
+audience, task, purpose, and discipline when sharing projects to the worldwide Scratch online community or designing projects and
+activities for others. Example activity: Unit 5 Activity Design
++  They comprehend as well as critique. – A variety of feedback exercises and collaborative projects engage students in sharing works-inprogress, asking questions, and exchanging constructive critique. Example activity: Unit 0 Critique Group
++  They use technology and digital media strategically and capably. – During self-directed activities, students learn to navigate to
+different parts of the Scratch website to develop projects, search for inspiration, connect with others, and pursue personal learning
+goals. Example activity: Unit 5 Know Want Learn
++  They come to understand other perspectives and cultures. – In remixing others’ projects, students need to read, understand, and
+interpret the code and intention of work that is not their own. When building up collaborative projects, students learn to cooperate,
+compromise, and share work with others. Example Activity: Unit 3 Pass It On
+
+139
+
+

@@ -1,0 +1,50 @@
+* page-081
+MAZE
+HOW CAN YOU USE SCRATCH TO BUILD
+AN INTERACTIVE GAME?
+In this project, you will create a game. This
+game includes interactions between sprites,
+score, and levels. You move a sprite from the
+start of a maze to the end without touching
+the walls.
+
+START HERE
+! Draw a maze-like background and use different
+colors for the walls and end-of-maze marker.
+! Add a sprite.
+! Make your game interactive!
+These scripts give the player control over sprite movement in the maze.	  
+
+THINGS TO TRY
+! Add multiple levels to your game! This can be
+done through the use of different backdrops and
+using braodcast blocks to trigger the next level.
+! Use the make a variable block to keep score!
+! Experiment with timer blocks to add new
+challenges to your maze!
+
+This tells your sprite where to begin
+and marks the start of the maze.	  
+
+This will cause your sprite to bounce
+off the blue walls of the maze.	  
+
+BLOCKS TO PLAY WITH
+
+This tells the end-of-maze sprite that
+players win when the ball touches
+this sprite.	  
+
+FINISHED?
+FINISHED?
+FINISHED?
+
++  Add your project to the Games
+Studio: http://scratch.mit.edu/
+studios/487504
+
++  Swap games with a partner
+and walk each other through
+your creations.
+
+

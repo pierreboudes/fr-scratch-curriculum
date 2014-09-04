@@ -1,0 +1,72 @@
+* page-100
+UNIT 5 ACTIVITY
+
+ADVANCED
+CONCEPTS
+S U G G E S T E D
+
+OBJECTIVES
+
+T I M E
+
+30–45 MINUTES
+
+ACTIVITY DESCRIPTION
+! Use the Advanced Concepts, Video Sensing examples, and
+Cloning examples studios to show examples and help students
+get familiar with blocks that control video sensing and cloning.
+Optionally, have the Advanced Concepts handout available to
+guide students.
+! Give students time to explore the code of example programs to
+create a project that experiments with one or more of the
+advanced concepts (video sensing, cloning).
+! Encourage students to share their explorations with others. We
+suggest hosting design demo presentations. Optionally, have
+students add their projects to the Advanced Concepts studio
+or a class studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+By completing this activity, students will:
++  gain more fluency with computational concepts
+(events, parallelism, data) and practices
+(experimenting and iterating, testing and debugging,
+reusing and remixing, abstracting and modularizing)
+by creating a project exploring video sensing or
+cloning
+
+RESOURCES
+! Advanced Concepts studio
+http://scratch.mit.edu/studios/221311
+! Video Sensing handout
+! Video Sensing examples studio
+http://scratch.mit.edu/studios/201435
+! Cloning handout
+! Cloning examples studio
+http://scratch.mit.edu/studios/201437
+
+REFLECTION PROMPTS
++  Which advanced concept(s) did you choose to explore?
++  What was your strategy for learning more about the
+concept(s) you selected?
+
+REVIEWING STUDENT WORK
++  Do projects explore one or more of the advanced
+concept(s)?
+
+NOTES
++  Students who want to explore the video sensing feature will
+require a computer with a webcam.
++  Remind students that the backpack tool can be used to
+borrow and remix code from example projects.
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+96
+
+

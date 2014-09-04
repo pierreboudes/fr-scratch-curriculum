@@ -1,0 +1,60 @@
+* page-006
+WHAT IS SCRATCH?
+There are many different tools that can be used for
+creative computing. In this guide, we use Scratch,
+which is a free computer programming language
+developed by researchers at the MIT Media Lab.
+With Scratch, people can create a wide variety of
+interactive media projects – animations, stories,
+games, and more – and share those projects with
+others in an online community. Since Scratch’s
+launch in May 2007, hundreds of thousands of
+people all around the world have created and
+shared more than 6 million projects.
+
+WHAT IS THIS GUIDE?
+This guide is a collection of ideas, strategies, and activities for an introductory creative computing experience using the
+Scratch programming language. The activities are designed to support familiarity and increasing fluency with
+computational creativity and computational thinking. In particular, the activities encourage exploration of key
+computational thinking concepts (sequence, loops, parallelism, events, conditionals, operators, data) and key
+computational thinking practices (experimenting and iterating, testing and debugging, reusing and remixing,
+abstracting and modularizing). Learn more about computational thinking – what it is and how to assess its
+development in learners – from resources in the appendix or by visiting http://scratched.gse.harvard.edu/ct
+Inspired by constructionist approaches to learning, the activities in this guide emphasize the following principles:
+
+2
+
+PRINCIPLE #1:
+CREATING
+
+PRINCIPLE #2:
+PERSONALIZING
+
+PRINCIPLE #3:
+SHARING
+
+PRINCIPLE #4:
+REFLECTING
+
+Offer opportunities for
+learners to engage in
+designing and making, not
+just listening, observing,
+and using.
+
+Offer opportunities for
+learners to engage in
+activities that are personally
+meaningful and relevant.
+
+Offer opportunities for
+learners to engage in
+interactions with others as
+audience, coaches, and cocreators.
+
+Offer opportunities for
+learners to review and
+rethink their creative
+practices.
+
+

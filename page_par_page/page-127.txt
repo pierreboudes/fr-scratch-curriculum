@@ -1,0 +1,23 @@
+* page-127
+PROJECT
+FEEDBACK
+
+FEEDBACK FOR: ___________________________________________________
+PROJECT TITLE: ___________________________________________________
+
+RED, YELLOW, GREEN
+FEEDBACK BY
+
+[RED] What is something that doesn’t work [YELLOW] What is something that is
+confusing or could be done differently?
+or could be improved?
+
+[GREEN] What is something that works
+well or you really like about the project?
+
+PARTS OF THE PROJECT THAT MIGHT BE HELPFUL TO THINK ABOUT:
++  Clarity: Did you understand what the project is supposed to do?
++  Features: What features does the project have? Does the project work as expected?
++  Appeal: How engaging is the project? Is it interactive, original, sophisticated, funny, or interesting? How did you feel as you interacted with it?
+
+

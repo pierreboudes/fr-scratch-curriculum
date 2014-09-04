@@ -1,0 +1,36 @@
+* page-103
+CLONING
+HOW CAN YOU USE CLONING IN YOUR
+SCRATCH PROJECTS?
+Cloning is an easy way to create multiples of
+the same sprite. You can use cloning to make
+many objects and create cool effects in a
+project.
+Explore this advanced Scratch concept by
+creating a project that incorporates the
+cloning feature.
+
+START HERE
+! Open an existing Scratch project or start a new
+project to experiment with cloning.
+! Check out blocks for cloning in the Control category.
+! Experiment with the blocks to create clones of your
+sprite. Define behaviors for what your cloned sprites
+will do.
+
+THINGS TO TRY
+! If you can’t see your clone initially, check if the original sprite is in the
+same location – it might be covering the clone! Program your original
+sprite or the clone to move or go to different locations so you can see them.
+! Stuck? That’s okay! Explore some of the other projects in the Cloning
+Studio to see how they use cloning or search in the Tips Window to learn
+more about the Create Clone and When I start as a Clone blocks.
+
+FINISHED?
++  Add your project to the Cloning studio:
+http://scratch.mit.edu/studios/201437
++  Add cloning to one of your past projects!
++  Help a neighbor!
++  Remix a project in the Cloning studio.
+
+

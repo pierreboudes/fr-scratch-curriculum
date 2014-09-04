@@ -1,0 +1,73 @@
+* page-030
+UNIT 1 ACTIVITY
+
+PROGRAMMED TO
+DANCE
+S U G G E S T E D
+
+By completing this activity, students will:
++  learn to express a complex activity using a sequence of
+simple instructions
+
+T I M E
+
+45–60 MINUTES
+
+ACTIVITY DESCRIPTION
+! Ask for 8 volunteers – four people who don’t mind being bossy
+and four people who don’t mind being bossed. Create four
+bossy/bossed pairs. Optionally, have a projector ready to
+present the Programmed to Dance videos.
+! For each bossy/bossed pair:
+1. Have the bossed partner facing away from the display
+and the bossy partner (and the rest of the group) facing the
+display.
+2. Show the video to the bossy partner and the group, but
+NOT to the bossed partner.
+3. Ask the bossy partner to describe to their partner (using
+only words!) how to perform the sequence of dance moves
+shown in the video.
+! Use this activity to start a discussion about the importance
+of sequence in specifying a set of instructions. You can let
+students reflect individually in their design journals or
+facilitate a group discussion by inviting different bossy/
+bossed pairs and observers to share their thoughts.
+
+NOTES
++  This is one of several activities in this guide that are
+computer-free. Stepping back from the computer can
+support fresh perspectives on and new understandings of
+computational concepts, practices, and perspectives.
++  Have students write down step-by-step instructions for one
+of the dances. In programming, this is called “pseudocode”.
+
+26
+
+OBJECTIVES
+
+RESOURCES
+! projector (optional)
+! Programmed to Dance videos
+http://vimeo.com/28612347
+http://vimeo.com/28612585
+http://vimeo.com/28612800
+http://vimeo.com/28612970
+
+REFLECTION PROMPTS
++  What was easy/difficult about being the bossy partner?
++  What was easy/difficult about being the bossed partner?
++  What was easy/difficult about watching?
++  How does this activity relate to what we’re doing with
+Scratch?
+
+REVIEWING STUDENT WORK
++  Can students explain what is important about sequence
+when specifying instructions?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

@@ -1,0 +1,82 @@
+* page-087
+EXTENSIONS
+HOW CAN YOU EXTEND AND REIMAGINE
+GAMES IN SCRATCH?
+Get into game design by adding extended
+features within your Scratch project! Choose
+at least one (or more!) of the following
+extensions and add it to your previously
+started maze, pong, or scrolling games.
+
++ SCORE http://scratch.mit.edu/projects/1940443
+
+Demonstrates how to set and change a score. Receive 10 points every
+time the Scratch cat is clicked.
+
++ LEVELS http://scratch.mit.edu/projects/1940453
+
+Demonstrates how to change levels. Score increases by 1 every time the
+space bar is pressed. Level increases by 1 for every 10 points.
+
++ TIMER http://scratch.mit.edu/projects/1940445
+
+Demonstrates how to use a timer. Use the mouse to navigate the Scratch
+cat to Gobo.
+
++ ENEMIES http://scratch.mit.edu/projects/1940450
+
+Demonstrates how to add an enemy. Avoid the tennis ball by using the
+up and down arrow keys.
+
++ REWARDS http://scratch.mit.edu/projects/1940456
+
+START HERE
+
+Demonstrates how to collect items. Use the arrow keys to move the
+Scratch cat around to collect quest items.
+
+! Go to the Extensions studio:
+http://scratch.mit.edu/studios/475619
+! Choose one (or more) of the extensions to explore.
+! Incorporate your choice into your previously started
+game projects!
+
++ MOUSE http://scratch.mit.edu/projects/25192659
+
+Demonstrates how to program the mouse to control game play. Move the
+mouse to move the paddle.
+
++ RESTART http://scratch.mit.edu/projects/25192935
+
+Demonstrates how to make a button to restart the game. Click on the
+RESTART button to restart.
+
++ MENU http://scratch.mit.edu/projects/25192991
+
+Demonstrates how to display a menu screen at the beginning of the
+game. Click START or DIRECTIONS on the menu screen.
+
++ MULTIPLAYER http://scratch.mit.edu/projects/25192711
+
+Demonstrates how to add another player to the game. Player 1 uses the
+arrow keys to navigate Pico through the maze, and player 2 uses the
+W, A, S, D keys to navigate Nano through the maze.
+
+THINGS TO TRY
++  The backpack can be an extremely useful tool while
+programming in Scratch. It can store everything from lines of
+code, to music files, to sprites, and more. Try using it to
+incorporate extensions into your game projects.
++  Alternatively, sketching out ideas and bits of code in your design
+journal is another great method for planning how to incorporate
+your extensions.
+
+FINISHED?
++  Add another extension to your maze, pong, or scrolling game.
++  Challenge yourself to do more! Continue going through each of
+the extensions and add them to your games.
++  Help a neighbor!
++  Share your project with a neighbor and give each other feedback
+on your games.
+
+

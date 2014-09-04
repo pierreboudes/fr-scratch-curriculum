@@ -1,0 +1,56 @@
+* page-065
+CONVERSATIONS
+WHAT ARE DIFFERENT WAYS TO
+COORDINATE INTERACTIONS BETWEEN
+SPRITES?
+In this activity, you'll explore different ways
+to program sprites to have conversations!
+Experiment with timing and explore using
+broadcast by remixing a joke project.
+
+START HERE
+! Look inside the Penguin Jokes project:
+http://scratch.mit.edu/projects/10015800
+! Investigate the code to see how the wait and say
+blocks are used to coordinate the conversation.
+! Remix the project to use the broadcast and when I
+receive blocks instead of wait blocks.
+
+G
+N
+I
+L
+E
+E
+F
+STUCK?
+
+THESE
+AY! TRY
+K
+O
+S
+’
+T
+THA
+
+THINGS…
+
+! Brainstorm ideas with a neighbor! Generate a list of
+possible solutions and test them out together.
+! Try using the broadcast and when I receive blocks in
+different parts of your project.
+! Explore projects in the Conversations studio to get
+inspiration for different ways to coordinate conversations
+between sprites.
+
+FINISHED?
++  Add your project to the Conversations studio:
+http://scratch.mit.edu/studios/475547
++  Challenge yourself to do more! Add other characters and
+conversations.
++  Share your project with a neighbor and walk them through your
+process of exploration and design.
++  Help a neighbor!
+
+

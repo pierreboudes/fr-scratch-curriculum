@@ -1,0 +1,79 @@
+* page-089
+INTERACTIONS
+WHAT DIFFERENTIATES A SCRATCH
+PROJECT FROM A STILL IMAGE OR A
+VIDEO?
+
+! PUZZLE 1: Whenever you press the B key, the sprite gets a little
+bigger. Whenever you press the S key, the sprite gets a little smaller.
+
+! PUZZLE 2: Whenever the sprite hears a loud sound, it changes
+color.
+
+Tackle these nine puzzles that engage some
+of the more advanced concepts in Scratch
+related to interactivity. Each of these
+challenges has several possible solutions.
+
+! PUZZLE 3: Whenever the sprite is in the top 25% of the screen, it
+says "I like it up here."
+
+START HERE
+
+! PUZZLE 5: Whenever two sprites collide, one of them says:
+"Excuse me.”
+
+! Create a Scratch program for each of the nine
+interactivity puzzles.
+
+! PUZZLE 4: When the sprite touches something blue, it plays a high
+note. When the sprite touches something red, it plays a low note.
+
+! PUZZLE 6: Whenever the cat sprite gets near the dog sprite, the
+dog turns and runs from the cat.
+
+! PUZZLE 7: Whenever you click on the background, a flower
+appears at that spot.
+
+! PUZZLE 8: Whenever you click on a sprite, all other sprites do a
+dance.
+
+G
+N
+I
+L
+E
+E
+F
+STUCK?
+
+H E SE
+Y! TRY T
+A
+K
+O
+S
+’
+THAT
+
+THINGS…
+
+! Before getting started in Scratch, write down ideas in your
+design journal for possible ways of programming each of
+the interactivity puzzles.
+! Work with a neighbor. Collaborating with a partner can be
+a great way to solve problems and gain new perspectives
+on ways of programming in Scratch!
+
+! PUZZLE 9: Whenever you move the mouse-pointer, the sprite
+follows but doesn't touch the mouse-pointer.
+
+FINISHED?
++  Add each of the projects you create to the Interaction Studio:
+http://scratch.mit.edu/studios/487213
++  Help a neighbor!
++  Discuss your strategies for approaching each puzzle with a
+partner. Take notes about the similarities and differences in your
+methods.
+
+

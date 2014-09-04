@@ -1,0 +1,41 @@
+* page-041
+ABOUT ME
+HOW CAN YOU COMBINE INTERESTING
+IMAGES AND SOUNDS TO MAKE AN
+INTERACTIVE COLLAGE ABOUT YOURSELF?
+Experiment with sprites, costumes, backdrops,
+looks, and sounds to create an interactive Scratch
+project -- a project that helps other people learn
+more about YOU and the ideas, activities, and
+people that you care about.
+
+START HERE
+! Create a sprite.
+! Make it interactive.
+! Repeat!
+
+THINGS TO TRY
+
+Make your sprite interactive by adding scripts that have
+the sprite respond to clicks, key presses, and more!
+
+TIPS & TRICKS
+
+BLOCKS TO PLAY WITH
+
+! Use costumes to change how your sprite looks.
+! Create different backdrops.
+! Try adding sound to your project.
+! Try adding movement into your collage.
+
+FINISHED?
++  Add your project to the About Me
+Studio: http://scratch.mit.edu/
+studios/475470
+
++  Challenge yourself to do more!
+Play with adding new blocks,
+sound, or motion!
++  Help a neighbor!
+
+

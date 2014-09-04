@@ -1,0 +1,73 @@
+* page-090
+UNIT 4 ACTIVITY
+
+DEBUG IT!
+S U G G E S T E D
+
+T I M E
+
+15 – 3 0 M I N U T E S
+
+OBJECTIVES
+
+By completing this activity, students will:
++  investigate the problem and find a solution to five
+debugging challenges
++  explore a range of concepts (conditionals, operators,
+and data) through the practices of testing and
+debugging
+
+ACTIVITY DESCRIPTION
+ACTIVITY DESCRIPTION
+! Optionally, have the Unit 4 Debug It! handout available to
+guide students during the activity.
+! Help students open the Debug It! programs from the Unit 4
+Debug It! studio or by following the project links listed on
+the Unit 4 Debug It! handout. Encourage students to click
+on the “Look Inside” button to investigate the buggy
+program, tinker with problematic code, and test possible
+solutions.
+! Give students time to test and debug each Debug It!
+challenge. Optionally, have students use the remix function
+in Scratch to fix the bugs and save corrected programs.
+! Ask students to reflect back on their testing and debugging
+experiences by responding to the reflection prompts in their
+design journals or in a group discussion.
+! Create a class list of debugging strategies by collecting
+students’ problem finding and problem solving approaches.
+
+NOTES
++  This activity provides an opportunity to check in with
+students who might need some additional attention or
+support, particularly around the concepts of conditionals
+(e.g., if), operators (e.g., arithmetic, logical), and data
+(e.g., variables, lists).
+
+RESOURCES
+! Unit 4 Debug It! handout
+! Unit 4 Debug It! studio
+http://scratch.mit.edu/studios/475634
+
+REFLECTION PROMPTS
++  What was the problem?
++  How did you identify the problem?
++  How did you fix the problem?
++  Did others have alternative approaches to fixing the
+problem?
+
+REVIEWING STUDENT WORK
++  Were students able to solve all five bugs? If not, how
+might you clarify the concepts expressed in the unsolved
+programs?
++  What different testing and debugging strategies did
+students employ?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+86
+
+

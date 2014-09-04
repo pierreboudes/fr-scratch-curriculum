@@ -1,0 +1,36 @@
+* page-102
+VIDEO SENSING
+HOW CAN YOU USE VIDEO SENSING IN
+YOUR SCRATCH PROJECTS?
+Did you know that you can make your
+Scratch projects interactive through a
+webcam? Explore this advanced Scratch
+concept by creating a project that
+incorporates the video sensing feature.
+
+START HERE
+! Open an existing Scratch project or start a new
+project to add video sensing.
+! Check out blocks for video sensing in the Sensing
+category.
+! Experiment with video on, turn video, and set video
+transparency to blocks to program your project to
+sense video motion.
+
+THINGS TO TRY
+
+FINISHED?
+
+! Make sure your webcam is connected! Test it out using the turn video on
+block.
+! If you’re feeling a little stuck, that’s okay! Explore some of the other
+projects in the Video Sensing studio to see how they use the video blocks or
+use the Tips Window to learn more about video sensing.
+
++  Add your project to the Advanced Concepts studio:
+http://scratch.mit.edu/studios/221311
++  Add video sensing to one of your past projects!
++  Help a neighbor!
++  Remix a project in the Video Sensing studio.
+
+

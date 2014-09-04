@@ -1,0 +1,52 @@
+* page-085
+SCORE
+HOW CAN YOU KEEP SCORE IN A SCRATCH
+PROJECT?
+Fish Chomp is a game where players try to
+catch as many fish as they can by guiding a
+sprite with the mouse. In this activity, you
+will remix Fish Chomp by adding a score with
+variables.
+
+START HERE
+! Go to the Fish Chomp project page:
+http://scratch.mit.edu/projects/10859244
+! Click on the Make a Variable button in the Data
+category to create and name a variable for score.
+! Experiment with your new variable blocks to
+incorporate score into your project!
+
+G
+N
+I
+L
+E
+E
+F
+STUCK?
+
+THESE
+AY! TRY
+K
+O
+S
+’
+T
+THA
+
+THINGS…
+
+! Not sure how to work with variables? Check out this project for more
+information: http://scratch.mit.edu/projects/2042755
+! Or take a look at this video: http://youtu.be/uXq379XkhVw
+! Explore and study code in games that use score to learn more about
+creating variables and incorporating score into a project.
+
+FINISHED?
++  Add your project to the Fish Chomp Remix
+studio: http://scratch.mit.edu/studios/475615
++  Challenge yourself to do more! How can you
+use score to add difficulty to your game design?
++  Find a game you are inspired by and remix it!
+
+

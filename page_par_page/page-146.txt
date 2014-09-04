@@ -1,0 +1,164 @@
+* page-146
+ASSESSING DEVELOPMENT OF COMPUTATIONAL PRACTICES
+The following instrument can be used to assess students’ development of fluency with computational thinking
+practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing).
+The first column indicates a question for the student (as part of a design journal prompt or interview, for example).
+The second, third, and fourth columns indicate how low, medium, and high levels of proficiency might be manifested.
+
+142
+
+EXPERIMENTING AND
+ITERATING
+
+LOW
+
+MEDIUM
+
+HIGH
+
+Describe how you built your
+project step by step.
+
+Student provides a basic
+description of building a
+project, but no details about
+a specific project.
+
+Student gives a general
+example of building a specific
+project in a certain order.
+
+Student provides details
+about the different
+components of a specific
+project and how they were
+developed in a certain order.
+
+What different things did you
+try out as you went along with
+your project?
+
+Student does not provide
+specific examples of what
+s/he tried.
+
+Student gives a general
+example of trying something
+in the project.
+
+Student provides specific
+examples of different things
+s/he tries in a project.
+
+What revisions did you make
+and why did you make them?
+
+Student says s/he made no
+revisions, or only states s/he
+made revisions but gives no
+examples.
+
+Student describes one specific
+revision s/he made to the
+project.
+
+Student describes the specific
+things s/he added to the
+project and why.
+
+Describe different ways you
+tried to do things in your
+project, or when you tried to
+do something new.
+
+Student provides no examples
+of trying something new.
+
+Student provides an example
+of trying something new in
+the project.
+
+Student describes specific new
+things s/he tried in a project.
+
+TESTING AND DEBUGGING
+
+LOW
+
+MEDIUM
+
+HIGH
+
+Describe what happened when
+you ran your project that was
+different from what you
+wanted.
+
+Student does not describe
+what was different when
+s/he ran the project from
+what s/he wanted.
+
+Student describes what went
+wrong in the project, but not
+what s/he wanted it to do.
+
+Student gives a specific
+example of what happened
+and what s/he wanted to
+have happen when s/he ran
+the project.
+
+Describe how you read through
+the scripts to investigate the
+cause of the problem.
+
+Student does not describe a
+problem.
+
+Student describes reading
+through the scripts but does
+not provide a specific
+example of finding a problem
+in the code.
+
+Student describes reading
+through the scripts and
+provides a specific example
+of finding a problem in the
+code.
+
+Describe how you made
+changes and tested to see
+what happened.
+
+Student does not describe
+what problems s/he had or
+the solution.
+
+Student provides a general
+example of making a change
+and testing it out to see if it
+worked.
+
+This student provides a
+specific example of making a
+change and testing it out to
+see if it worked.
+
+Describe how you considered
+other ways to solve a problem.
+
+Student does not provide an
+example of a solution to a
+problem.
+
+Student provides a general
+example of a solution to the
+problem.
+
+This student provides a
+specific example of a solution
+to the problem.
+
+

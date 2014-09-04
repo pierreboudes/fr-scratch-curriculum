@@ -1,0 +1,26 @@
+* page-151
+FOR FURTHER READING
+A selection of readings to further support your explorations of creative computing:
+Books
++  Papert, S. (1980). Mindstorms: Children, computers, and powerful ideas. New York, NY: Basic Books.
++  Papert, S. (1993). The children’s machine: Rethinking school in the age of the computer. New York, NY: Basic Books.
++  Margolis, J., Estrella, R., Goode, J., Holme, J.J., & Nao, K. (2008). Stuck in the shallow end: Education, race, and computing.
+Cambridge, MA: MIT Press.
++  Margolis, J., & Fisher, A. (2002). Unlocking the clubhouse: Women in computing. Cambridge, MA: MIT Press.
++  Rushkoff, D. (2010). Program or be programmed: Ten commands for a digital age. New York, NY: OR Books.
+
+Dissertations
++  Brennan, K. (2013). Best of both worlds: Issues of structure and agency in computational creation, in and out of schools.
+Doctoral dissertation, Massachusetts Institute of Technology.
++  Monroy-Hernandez, A. (2012). Designing for remixing: Supporting an online community of amateur creators.
+Doctoral dissertation, Massachusetts Institute of Technology.
+
+Papers
++  Brennan, K., & Resnick, M. (2012). New frameworks for studying and assessing the development of computational thinking.
+American Educational Research Association meeting, Vancouver, BC, Canada.
++  Brennan, K. (2013). Learning computing through creating and connecting. IEEE Computer, Special Issue: Computing in Education.
+doi:10.1109/MC.2013.229
+
+147
+
+

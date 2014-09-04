@@ -1,0 +1,83 @@
+* page-039
+DEBUG IT!
+HELP! CAN YOU DEBUG THESE FIVE
+SCRATCH PROGRAMS?
+In this activity, you will investigate what is
+going awry and find a solution for each of
+the five Debug It! challenges.
+
+! DEBUG IT! 1.1 http://scratch.mit.edu/projects/10437040
+When the green flag is clicked, both Gobo and Scratch Cat should
+start dancing. But only Scratch Cat starts Dancing! How do we fix the
+program?
+
+! DEBUG IT! 1.2 http://scratch.mit.edu/projects/10437249
+In this project, when the green flag is clicked, the Scratch Cat should
+start on the left side of the stage, say something about being on the
+left side, glide to the right side of the stage, and say something
+about being on the right side. It works the first time the green flag is
+clicked, but not again. How do we fix the program?
+
+! DEBUG IT! 1.3 http://scratch.mit.edu/projects/10437366
+
+START HERE
+! Go to the Unit 1 Debug It! studio:
+http://scratch.mit.edu/studios/475483
+
+The Scratch Cat should do a flip when the space key is pressed. But
+when the space key is pressed, nothing happens! How do we fix the
+program?
+
+! Test and debug each of the five debugging
+challenges in the studio.
+! Write down your solution or remix the buggy
+program with your solution.
+
+! DEBUG IT! 1.4 http://scratch.mit.edu/projects/10437439
+In this project, the Scratch Cat should pace back and forth across the
+stage, when it is clicked. But the Scratch Cat is flipping out – and is
+walking upside down! How do we fix the program?
+
+! DEBUG IT! 1.5 http://scratch.mit.edu/projects/10437476
+
+G
+N
+I
+L
+E
+E
+F
+STUCK?
+
+THESE
+AY! TRY
+K
+O
+S
+’
+T
+THA
+
+THINGS…
+
+! Make a list of possible bugs in the program.
+! Keep track of your work! This can be a useful reminder of
+what you have already tried and point you toward what to
+try next.
+! Share and compare your problem finding and problem
+solving approaches with a neighbor until you find
+something that works for you!
+
+In this project, when the green flag is clicked, the Scratch Cat should
+saw ‘Meow, meow, meow!’ in a speech bubble and as a sound. But
+the speech bubble happens before the sound – and the Scratch Cat
+only makes one ‘Meow’ sound! How do we fix the program?
+
+FINISHED?
++  Discuss your testing and debugging practices with a partner.
+Make note of the similarities and differences in your strategies.
++  Add code commentary by right clicking on blocks in your scripts.
+This can help others understand different parts of your program!
++  Help a neighbor!
+
+

@@ -1,0 +1,76 @@
+* page-072
+UNIT 3 ACTIVITY
+
+PASS IT ON
+S U G G E S T E D
+
+T I M E
+
+45–60 MINUTES
+
+ACTIVITY DESCRIPTION
+! Divide the group into pairs. Introduce students to the concept
+of a pass-it-on-story, a Scratch project that is started by a pair
+of people, and then passed on to two other pairs to extend and
+reimagine. Optionally, print out the Pass It On handout.
+! Encourage students to start in whatever way they want –
+focusing on characters, scene, plot, or whatever element
+excites them. Give each pair 10 minutes to work on their
+collaborative story before having them rotate to extend
+another story by remixing the project. Encourage students
+to give credit for reusing or remixing content.
+! After two rotations, allow students to revisit story projects
+with their contributions. We suggest hosting a Scratch
+screening: with projector and screen, present the story
+projects with students gathered around to watch. Optionally,
+invite students to add their projects to the Pass It On studio or
+a class studio.
+! Ask students to respond to the reflection prompts in their
+design journals or in a group discussion.
+
+NOTES
++  Consider organizing your Scratch screening as an event!
+Invite students from other classes to the viewing, offer
+snacks and drinks, or host the event in an auditorium or
+room with a large wall or screen for displaying projects.
++  Introduce students to the backpack (located at the bottom
+of the Scratch project editor) as another way to remix
+projects. Learn more about this tool in the Backpack video
+tutorial: http://bit.ly/scratchbackpack
+68
+
+OBJECTIVES
+
+By completing this activity, students will:
++  be able to create a Scratch project that tells a story by
+reusing and remixing the work of others
++  experience pair programming by working in pairs to
+develop a collaborative storytelling project
+
+RESOURCES
+! Pass It On handout
+! Pass It On studio
+http://scratch.mit.edu/studios/475543
+! Projector and screen to present student work (optional)
+
+REFLECTION PROMPTS
++  How did it feel to remix and build on others’ work? How
+did it feel to be remixed?
++  Where else in your life have you seen or experienced
+reusing and remixing? Share two examples.
++  How was working with someone else different from your
+prior experiences of designing your Scratch projects?
+
+REVIEWING STUDENT WORK
++  What parts of projects did students contribute to?
++  Do students seem comfortable with the concepts of events
+and parallelism and practices of reusing and remixing?
+If not, in what ways can these be further clarified?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

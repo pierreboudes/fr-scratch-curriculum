@@ -1,0 +1,45 @@
+* page-082
+PONG
+HOW CAN YOU USE SCRATCH TO BUILD
+AN INTERACTIVE GAME?
+In this project, you will create a game. This
+game includes interactions between sprites,
+score, and levels. The game is similar to the
+classic game of pong, where the goal is to
+keep the sprite from getting past you.
+
+START HERE
+! Create two sprites: a paddle for the user to control
+and a ball the user will be playing with.
+! Make your paddle sprite interactive.
+! Bring your game to life!
+
+THINGS TO TRY
+! How do you add difficulty to your game?
+Creating different levels, using a timer, or
+keeping score are a few examples of things you
+could do.
+! Experiment with changing the look of your game
+by editing the backdrops!
+! Explore using different key presses to control
+your sprites!
+
+BLOCKS TO PLAY WITH
+
+Interacts with the walls
+Interacts with the paddle	  
+These control the ball - if touching the paddle or a wall, it continues moving. If
+touching red (meaning the ball moved past the paddle) the game ends.	  
+
+FINISHED?
+FINISHED?
+FINISHED?
++  Add your project to the Games
+Studio: http://scratch.mit.edu/
+studios/487504
+
++  Swap games with a partner
+and walk each other through
+your creations.
+
+

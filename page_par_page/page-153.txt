@@ -1,0 +1,144 @@
+* page-153
+LINKS
+Links to helpful creative computing resources:
+
+TYPE
+
+DESCRIPTION
+
+LINK
+
+Website
+
+Scratch
+
+http://scratch.mit.edu
+
+Website
+
+ScratchEd
+
+http://scratched.gse.harvard.edu
+
+Website
+
+Flash
+
+http://helpx.adobe.com/flash-player.html
+
+Resource
+
+Offline Version of Scratch
+
+http://scratch.mit.edu/scratch2download
+
+Resource
+
+Scratch Cards
+
+http://scratch.mit.edu/help/cards
+
+Resource
+
+Scratch Community Guidelines
+
+http://scratch.mit.edu/community_guidelines
+
+Resource
+
+Scratch Remix FAQ
+
+http://scratch.mit.edu/help/faq/#remix
+
+Resource
+
+Scratch Wiki
+
+http://wiki.scratch.mit.edu
+
+Resource
+
+Scratch Discussion Forums
+
+http://scratch.mit.edu/discuss
+
+Resource
+
+Scratch FAQ
+
+http://scratch.mit.edu/help/faq
+
+Resource
+
+LEGO WeDo Construction Set
+
+http://bit.ly/LEGOWeDo
+
+Resource
+
+MaKey MaKey
+
+http://makeymakey.com
+
+Resource
+
+PicoBoard
+
+https://www.sparkfun.com/products/10311
+
+Resource
+
+Scratch Design Studio List
+
+http://scratch.mit.edu/users/ScratchDesignStudio
+
+Video
+
+Scratch Overview Video
+
+http://vimeo.com/65583694
+http://youtu.be/-SjuiawRMU4
+
+Video
+
+Unit 1 Programmed to Dance Videos
+
+http://vimeo.com/28612347
+http://vimeo.com/28612585
+http://vimeo.com/28612800
+http://vimeo.com/28612970
+
+Video
+
+Backpack Video Tutorial
+
+http://bit.ly/scratchbackpack
+
+Video
+
+Make a Block Video Tutorial
+
+http://bit.ly/makeablock
+
+Video
+
+Variables Video Tutorial
+
+http://bit.ly/scratchvariables
+
+Video
+
+How can I connect Scratch with other
+technologies? Video Playlist
+
+http://bit.ly/hardwareandextensions
+
+Video
+
+Scratch Chain Reaction Video
+
+http://bit.ly/ScratchChainReaction
+
+149
+
+

@@ -1,0 +1,81 @@
+* page-069
+DEBUG IT!
+
+! DEBUG IT! 3.1 http://scratch.mit.edu/projects/24269007
+In this project, the Scratch Cat teaches Gobo to meow. But when it's
+Gobo's turn to try -- Gobo stays silent. How do we fix the program?
+
+HELP! CAN YOU DEBUG THESE FIVE
+SCRATCH PROGRAMS?
+! DEBUG IT! 3.2 http://scratch.mit.edu/projects/24269046
+In this activity, you will investigate what is
+going awry and find a solution for each of
+the five Debug It! challenges.
+
+In this project, the Scratch Cat is supposed to count from 1 to the
+number the user provides. But the Scratch Cat always counts to 10.
+How do we fix the program?
+
+! DEBUG IT! 3.3 http://scratch.mit.edu/projects/24269070
+In this project, the Scratch Cat is doing roll call with Gobo's friends:
+Giga, Nano, Pico, and Tera. But everything is happening all at once!
+How do we fix the program?
+
+START HERE
+! Go to the Unit 3 Debug It! Studio:
+http://scratch.mit.edu/studios/475554
+! Test and debug each of the five debugging
+challenges in the studio.
+! Write down your solution or remix the buggy
+program with your solution.
+
+! DEBUG IT! 3.4 http://scratch.mit.edu/projects/24269097
+In this project, the Scratch Cat and Gobo are practicing their jumping
+routine. When Scratch Cat says "Jump!", Gobo should jump up and
+down. But Gobo isn't jumping. How do we fix the program?
+
+! DEBUG IT! 3.5 http://scratch.mit.edu/projects/24269131
+
+G
+N
+I
+L
+E
+E
+F
+STUCK?
+
+THESE
+AY! TRY
+K
+O
+S
+’
+T
+THA
+
+THINGS…
+
+! Make a list of possible bugs in the program.
+! Keep track of your work! This can be a useful reminder of
+what you have already tried and point you toward what to
+try next.
+! Share and compare your problem finding and problem
+solving approaches with a neighbor until you find
+something that works for you!
+
+In this project, the scene changes when you press the right arrow
+key. The star of the project -- a dinosaur -- should be hidden in every
+scene except when the scene transitions to the auditorium backdrop.
+In the auditorium, the dinosaur should appear and do a dance. But
+the dinosaur is always present and is not dancing at the right time.
+How do we fix the program?
+
+FINISHED?
++  Add code commentary by right clicking on blocks in your scripts.
+This can help others understand different parts of your program!
++  Discuss your testing and debugging practices with a partner, and
+make note of the similarities and differences in your strategies.
++  Help a neighbor!
+
+

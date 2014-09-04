@@ -1,0 +1,72 @@
+* page-104
+UNIT 5 ACTIVITY
+
+HARDWARE &
+EXTENSIONS
+S U G G E S T E D
+
+OBJECTIVES
+
+T I M E
+
+By completing this activity, students will:
++  be introduced to various hardware extensions that
+connect the digital world of Scratch with the physical
+world
+
+45–60 MINUTES
+
+ACTIVITY DESCRIPTION
+! (IMPORTANT: This activity requires access to one or more of
+these hardware products.) Introduce students to ways Scratch
+can connect to other technologies and hardware extensions
+including the LEGO WeDo, MaKey MaKey, and PicoBoard.
+Optionally, show examples from the How can I connect Scratch
+with other technologies? video playlist.
+! Divide students into small groups of 2-4 people. Give the
+groups time to explore creating a Scratch project that
+incorporates a physical world component using one or more
+available hardware extensions.
+! Allow each group to share their creations with others. We
+suggest facilitating a gallery walk or feedback fair.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+RESOURCES
+! LEGO WeDo construction set
+http://bit.ly/LEGOWeDo
+! MaKey MaKey
+http://makeymakey.com
+! PicoBoard
+https://www.sparkfun.com/products/10311
+! How can I connect Scratch with other technologies? videos
+http://bit.ly/hardwareandextensions
+
+REFLECTION PROMPTS
++  Which hardware or extension did you explore?
++  How did you incorporate the digital and the physical?
++  What was difficult?
++  What was surprising?
+
+REVIEWING STUDENT WORK
++  Does the work have a digital and a physical component?
+
+NOTES
++  Make this a group-wide activity! Using the LEGO WeDo and
+Scratch, challenge students to connect their projects to
+create a chain of reactions in the style of a Rube Goldberg
+machine. See this video for an example:
+http://bit.ly/ScratchChainReaction
++  Activate the Scratch blocks that control hardware extensions
+by clicking on the Add an Extension button located under
+the More Blocks category in the Scratch project editor.
+100
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

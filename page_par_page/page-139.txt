@@ -1,0 +1,39 @@
+* page-139
+GLOSSARY
+A guide to the key words, concepts, and practices in the curriculum guide:
+Visit the Scratch help pages at http://scratch.mit.edu/help or the community-generated Scratch Wiki at
+http://wiki.scratch.mit.edu for additional, Scratch-specific terminology.
+abstracting and modularizing: The computational practice of exploring connections between the whole and the parts.
+animation: An illusion of continuous motion created by the rapid display of a sequence of still images with incremental differences.
+arcade day: A strategy for sharing student work and whole group activity. Students place their finished projects in Presentation Mode
+and then walk around and engage with each other’s work.
+backdrop: One out of possibly many frames, or backgrounds, of the Stage.
+backpack: A Scratch feature that can be used to conveniently transfer media and/or scripts between projects.
+bitmap: An image that is defined by a two-dimensional array (grid) of discrete color values (a.k.a. “pixels”). Contrast with vector
+graphics.
+broadcast: A message that is sent through the Scratch program, activating receiving scripts.
+cloning: A Scratch feature that allows a sprite to create duplicates of itself while the project is running.
+computational concepts: The concepts designers engage with as they program, such as sequence, loops, conditionals, events,
+parallelism, operators, and data.
+computational perspectives: The broader perspectives that designers may form about world around them through computing –
+such as expressing themselves, connecting with others, and posing questions about technology’s role in the world. 
+computational practices: The distinctive habits of mind that programmers develop as they work, such as experimenting and
+iterating, testing and debugging, remixing and reusing work, and abstracting and modularizing.
+conditionals: The computational concept of making decisions based on conditions (e.g., current variable values).
+control: One of the ten categories of Scratch blocks. They are color-coded gold, and are used to control scripts.
+costume: One out of possibly many “frames” or alternate appearances of a sprite. A sprite can change its look to any of its costumes.
+critique group: A group of designers who share ideas and test projects-in-progress with one another in order to get feedback on how
+to further develop their projects.
+data: The computational concept of storing, retrieving, and updating values.
+design demo: An activity in which students are invited to present their work to the class and demonstrate how they implemented a
+particular block, skill, or design strategy within their project.
+design sprint: A specified amount of time dedicated to working intensely on developing projects.
+events: The computational concept of one thing causing another thing to happen.
+experimenting and iterating: The computational practice of developing a little bit, then trying it out, then developing some
+more.
+feedback fair: A sharing activity in which half of your students stay in their seats with their projects open while the other half walks
+around exploring projects, asking questions, and giving feedback. Once complete, the students then switch sides and start the process
+over.
+135
+
+

@@ -1,0 +1,75 @@
+* page-029
+CHOOSE YOUR OWN ADVENTURE
+This unit includes a mix of structured and open-ended activities
+that engage students in exploration of the key concept of
+sequence – identifying and specifying an ordered series of
+instructions. This is often a powerful moment for students:
+they’re telling the computer what to do, by translating their
+ideas into blocks of computer code.
+From a step-by-step tutorial, to playing with a constrained
+number of blocks, to a debugging challenge, each activity helps
+learners build the skills needed to create an About Me project.
+In the culminating project, learners will explore and experiment
+with sprites, costumes, looks, backdrops, and sounds to create a
+personalized, interactive collage in Scratch.
+Take advantage of all the activities or pick a few that cater to
+your students’ specific needs and interests; the choice is up to
+you. If you’re not sure where to start, a possible order for the
+activities is suggested below.
+
+POSSIBLE PATH
+SESSION 2	  
+
+SESSION 1	  
+
+SESSION 3	  
+
+SESSION 4 & SESSION 5	  
+
+PROGRAMMED
+TO DANCE
+
+STEP-BY-STEP
+
+10 BLOCKS
+
+MY STUDIO
+
+DEBUG IT!
+
+ABOUT ME
+
+How can you
+express a
+sequence of dance
+moves using
+simple verbal
+instructions?
+
+New to Scratch?
+Create your first
+Scratch project!
+
+What can you
+create with only
+10 Scratch blocks?
+
+What can be
+created with
+Scratch?
+
+Help!
+Can you debug
+these five Scratch
+programs?
+
+How can you
+combine images
+and sounds to
+make an
+interactive collage
+about yourself?
+
+25
+
+

@@ -1,0 +1,69 @@
+* page-020
+UNIT
+UIT 0 ACTIVITY
+
+SCRATCH SURPRISE
+S U G G E S T E D
+
+By completing this activity, students will:
++  engage in an exploratory, hands-on experience with
+Scratch
+
+T I M E
+
+15 – 3 0 M I N U T E S
+
+ACTIVITY DESCRIPTION
+! Help students open the Scratch project editor by navigating to
+the Scratch website at http://scratch.mit.edu, signing in to
+their Scratch accounts, and then clicking on “Create” at the top
+of the page. Optionally, have the Scratch Surprise handout and
+Scratch Cards available to guide students during their
+explorations.
+! Give students 10 minutes to explore the Scratch interface in an
+open-ended way. Prompt students with, “You have 10 minutes
+to make something surprising happen to the Scratch cat.” Or,
+“Take 10 minutes to explore the interface fearlessly. What do
+you notice?” Encourage students to work together, ask each
+other for help, and share what they are figuring out.
+! Ask for 3 or 4 volunteers to share with the entire group one
+thing that they discovered. Optionally, after the volunteers
+have shared, offer several challenges to the students:
+- Did anyone figure out how to add sound?
+- Did anyone figure out how to change the background?
+- Did anyone figure out how to get help with blocks?
+
+NOTES
++  A major goal of this activity is to establish a culture of
+fearlessness, exploration, and peer collaboration. It is
+expected that students (and their teachers!) will not know
+everything ahead of time – and the environment becomes a
+space where everyone is learning together.
++  Make sure that your computers have the latest version of
+Flash to run Scratch:
+http://helpx.adobe.com/flash-player.html
+16
+
+OBJECTIVES
+
+RESOURCES
+! Scratch Surprise Handout
+! Scratch Cards
+http://scratch.mit.edu/help/cards
+
+REFLECTION PROMPTS
++  What did you figure out?
++  What do you want to know more about?
+
+REVIEWING STUDENT WORK
++  Do students know how to initiate a new project?
++  Do students understand the basic mechanism of snapping
+Scratch blocks together?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+

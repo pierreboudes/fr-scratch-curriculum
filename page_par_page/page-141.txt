@@ -1,0 +1,22 @@
+* page-141
+sound: An audio file that can be played in a Scratch project, available by importing from Scratch's built-in sound library, or creating a
+new recording. Sounds are played by using sound blocks, which control a sound's volume, tempo, and more.
+sprite: A media object that performs actions on the stage in a Scratch project.
+stage: The background of a Scratch project. The stage can have scripts, backdrops (costumes), and sounds, similar to a sprite.
+studio: A user-created gallery in the Scratch online community that can be used to highlight projects contributed by one or many users.
+testing and debugging: The computational practice of making sure things work – and finding and solving problems when they
+arise.
+theatre metaphor: A way of describing the design of Scratch that emphasizes its intentional similarity to theatre, with actors
+(sprites), costumes, backdrops, scripts, and a stage.
+tips window: Built directly into the Project Editor, the Tips Window is a form of getting help in Scratch.
+unfocus group: An activity in which students share their projects-in-progress and request feedback from a diverse collection of
+people.
+variables and lists: A changeable value or collection of values recorded in Scratch’s memory. Variables can store one value at a
+time, while lists can store multiple values.
+vector graphic: An image that is defined by a collection of geometric shapes (e.g., circles, rectangles) and colors. Contrast with
+bitmap.
+video sensing: A Scratch feature that makes use of video from a webcam to detect motion or display video input on the stage.
+
+137
+
+

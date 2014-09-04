@@ -1,0 +1,22 @@
+* page-021
+SCRATCH SURPRISE
+CAN YOU MAKE THE SCRATCH CAT DO
+SOMETHING SURPRISING?
+In this activity, you will create a new project
+with Scratch and explore different Scratch
+blocks to make the cat do something
+surprising! What will you create?
+
+START HERE
+! Go to the Scratch website: http://scratch.mit.edu
+! Sign into your account.
+! Click on the “Create” tab located at the top left of
+the browser to start a new project.
+! Time to explore! Try clicking on different parts of
+the Scratch interface to see what happens.
+! Play with different Scratch blocks! Drag and drop
+Scratch blocks into the scripting area. Experiment by
+clicking on each block to see what they do or try
+snapping blocks together.
+
+

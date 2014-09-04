@@ -1,0 +1,74 @@
+* page-077
+CHOOSE YOUR OWN ADVENTURE
+In this unit, learners will become game designers and
+experience creating their own game project. Guided by the
+activities in this unit, students will be introduced to game
+mechanics and game development while building
+understandings of computational concepts (conditionals,
+operators, data) and computational practices (abstracting and
+modularizing).
+You could get students started on their game projects with the
+Starter Games activity and then support further development
+through other activities. From learning common game
+mechanics such as keeping score and side-scrolling, to the
+creation of multiplayer games (e.g., Pong), Unit 4 activities
+offer students multiple opportunities to practice game
+development.
+
+POSSIBLE PATH
+SESSION 1	  
+
+SESSIONS 1 - 5	  
+
+SESSION 2	  
+
+SESSION 3	  
+
+SESSION 4	  
+
+SESSION 5	  
+
+DREAM GAME
+LIST
+
+STARTER
+GAMES
+
+SCORE
+
+EXTENSIONS
+
+INTERACTIONS
+
+DEBUG IT!
+
+What do all games
+have in common?
+
+How can you use
+Scratch to build an
+interactive game?
+
+How can you add
+score to a game
+using variables?
+
+What are different
+ways of extending
+and increasing
+difficulty in a
+game?
+
+Tackle nine
+Scratch
+programming
+puzzles.
+
+Help!
+Can you debug
+these five Scratch
+programs?
+
+73
+
+

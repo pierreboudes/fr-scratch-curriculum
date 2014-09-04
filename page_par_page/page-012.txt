@@ -1,0 +1,115 @@
+* page-012
+UNIT 0
+OVERVIEW
+THE “BIG IDEA”
+When we shared a draft of this guide with teachers,
+a common initial reaction was, “Unit 0?!? Why 0?”
+We hoped to communicate that this is a preparatory
+unit, supporting you in establishing a culture of
+creative computing through creating, personalizing,
+sharing, and reflecting. Our ambition to support this
+type of learning culture will be evident throughout
+the guide.
+Creative computing culture has an intellectual
+dimension, engaging with a set of computational
+concepts and practices. It has a physical dimension,
+encouraging interactions with others through the
+placement of desks, chairs, and computers. Most
+importantly, it has an affective dimension,
+cultivating a sense of confidence and fearlessness.
+
+8
+
+It really
+help
+in your c s if you have kin
+lassroom
+. It starts d of a culture or
+kids to a
+climate
+on the fi
+ppreciate
+r st
+th
+and that
+I’m going at they’re going to day – getting
+to be ask
+hard. I a
+ing them make mistakes
+lw
+to do stu
+don’t, at ays just put that
+ff that is
+first, just
+right out
+because
+th
+adults do
+e
+r
+e
+.
+And th
+they
+n’t like to
+importan
+fail, or m want to succeed. ey
+t, I feel,
+Even
+ake mista
+tha
+that it’s
+not time t when you do ru kes. But it is
+n in
+to
+about th
+e strateg give up or cry. It to difficulties
+ie
+’s
+s that y
+problem,
+ou have time to think
+or to loo
+k
+to solve
+or give u
+p – you k for help. No reas
+your
+on to bre
+eep at it.
+ak down
+TS, Eleme
+ntary Sch
+ool Teach
+er
+
+LEARNING OBJECTIVES
+
+KEY WORDS, CONCEPTS, & PRACTICES
+
+Students will:
++  be introduced to the concept of computational creation, in the
+context of Scratch
++  be able to imagine possibilities for their own Scratch-based
+computational creation
++  become familiar with resources that support their computational
+creation
++  prepare for creating Scratch projects by establishing Scratch
+accounts, exploring Scratch studios, creating design journals, and
+organizing critique groups
+
++  profile editor
++  project page
++  studio
+
++  critique croup
++  red, yellow, green
+
+NOTES
++  Coordinate with your IT department to make sure your
+computers can access the Scratch website.
++  Don’t have internet access? An offline version of Scratch is
+available for download:
+http://scratch.mit.edu/scratch2download
+
+

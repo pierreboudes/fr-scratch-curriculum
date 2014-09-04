@@ -1,0 +1,38 @@
+* page-063
+CHARACTERS
+DO YOU WANT TO CREATE YOUR OWN
+SCRATCH BLOCKS?
+Experiment with the Make a Block feature in
+Scratch! In this project, you will create your own
+blocks that define two behaviors for two different
+characters.
+
+START HERE
+! Choose from the library, paint, or upload two sprite
+characters.
+! Click on the Make a Block button in the More Blocks
+category to create and name your block.
+! Add blocks under the Define block to control
+what your custom block will do.
+! Experiment with using your block to program
+your characters’ behaviors.
+! Repeat!
+
+THINGS TO TRY
+! Feeling stuck? That’s okay! Check out this video to get started with
+the Make a Block feature: http://bit.ly/makeablock
+! Explore other projects in the Characters Studio to see what new
+blocks others have created.
+! Sometimes there can be more than one way of defining the same
+behavior. Experiment with different block combinations to try out
+multiple options and outcomes.
+
+FINISHED?
++  Add your project to the Characters Studio:
+http://scratch.mit.edu/studios/475545
++  Challenge yourself to do more! Experiment
+with adding different characters and behaviors
+using the Make a Block feature.
++  Help a neighbor!
+
+

@@ -1,0 +1,51 @@
+* page-083
+SCROLLING
+HOW CAN YOU USE SCRATCH TO BUILD
+AN INTERACTIVE GAME?
+In this project, you will create a game. This
+game includes interactions between sprites,
+score, and levels. The game is similar to
+Flappy Bird, where the goal is to keep an
+object from falling to the ground or touching
+certain objects.
+
+START HERE
+Controls sprite movement
+
+! Create two sprites: one for the player to control
+(helicopter) and one to avoid (gliding bars).
+! Make the helicopter interactive.
+! Bring your game to life by adding scripts to make
+the gliding bars scroll across the stage!
+
+THINGS TO TRY
+! How do you add difficulty to your game?
+Creating different levels, using a timer, or
+keeping score are a few examples of things you
+could do.
+! Experiment with changing the look of your game
+by editing the backdrops!
+! Explore using different key presses to control
+your sprites!
+
+This creates clones, which are used in the script
+below to make the bars scroll across the screen:
+
+BLOCKS TO PLAY WITH
+
+Causes sprite to constantly fall downward
+
+Specifies when the game ends
+
+FINISHED?
+FINISHED?
+FINISHED?
++  Add your project to the Games
+Studio: http://scratch.mit.edu/
+studios/487504
+
++  Swap games with a partner
+and walk each other through
+your creations.
+
+

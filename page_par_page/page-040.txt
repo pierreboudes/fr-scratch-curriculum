@@ -1,0 +1,73 @@
+* page-040
+UNIT 1 ACTIVITY
+
+ABOUT ME
+S U G G E S T E D
+
+T I M E
+
+45–60 MINUTES
+
+ACTIVITY DESCRIPTION
+! Introduce students to the concept of the interactive collage, a
+Scratch project that represents aspects of themselves through
+clickable sprites. Optionally, show interactive project examples
+from the About Me studio.
+! Have students sign in to their Scratch accounts and open a
+new project. Optionally, have the About Me handout and
+Scratch Cards available to provide guidance. Give students
+time to create an About Me interactive collage Scratch
+project, encouraging them to build up their programs by
+experimenting and iterating.
+! Allow students to share their works-in-progress with others.
+We suggest pair-share: have students share and discuss their
+projects in pairs. Optionally, invite students to add their
+projects to the About Me studio or a class studio.
+! Ask students to think back on the design process by
+responding to the reflection prompts in their design
+journals or in a group discussion.
+
+NOTES
++  Example projects can simultaneously inspire and
+intimidate, open the creative space and constrain it.
+Encourage a wide range of creations; diversity is great!
++  Students can further personalize projects by using a camera
+or webcam to bring images into the project.
+
+OBJECTIVES
+
+By completing this activity, students will:
++  become familiar with a wider range of Scratch blocks
++  be able to create an open-ended Scratch project that is
+an interactive digital representation of their personal
+interests
+
+RESOURCES
+! About Me handout
+! About Me studio
+http://scratch.mit.edu/studios/475470
+! Scratch Cards
+http://scratch.mit.edu/help/cards
+
+REFLECTION PROMPTS
++  What are you most proud of? Why?
++  What did you get stuck on? How did you get unstuck?
++  What might you want to do next?
++  What did you discover from looking at others’ About Me
+projects?
+
+REVIEWING STUDENT WORK
++  Do projects make creative use of sprites, costumes, looks,
+backdrops, or sound?
++  Are projects interactive? Can users interact with various
+elements within the project?
+
+NOTES TO SELF
+! 
+! 
+! 
+! 
+
+36
+
+

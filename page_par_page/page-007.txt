@@ -1,0 +1,88 @@
+* page-007
+WHO IS THIS GUIDE FOR?
+No matter your current context or prior experience,
+this guide was designed with a wide range of learners
+and educators in mind. Here are a few examples of
+who might use the guide and how they might use it:
+
+K-12 TEACHER
+Scratch is being used in thousands of elementary, middle-school,
+and high-school classrooms around the world. The guide can be
+used in its entirety as a semester-long computing course, or
+selectively as part of other curricular areas. Many educators
+introduce creative computing as an after-school or lunch-time
+program, using the activities as inspiration and scaffolding for
+students’ open-ended explorations.
+
+MUSEUM OR LIBRARY EDUCATOR
+In addition to formal learning environments like classrooms,
+Scratch has been used in informal learning spaces like museums
+and libraries. Whether as a structured workshop experience or a
+drop-in play space, these learning environments are ideal for
+supporting explorations in creative computing, without some of
+the restrictions present in traditional settings.
+
+e
+v
+i
+t
+a
+e
+r
+C
+s
+i
+g
+n
+i
+t
+compu
+!
+y
+d
+o
+b
+y
+r
+e
+v
+e
+r
+fo
+COLLEGE INSTRUCTOR
+Scratch can serve as an introduction to fundamental
+computational concepts and practices, often followed by a
+transition to more traditional text-based programming languages
+in computer science courses. For example, the CS50 course at
+Harvard University uses Scratch as an introductory programming
+experience before transitioning to the C programming language.
+The activities have also been used as part of education, art, and
+media literacy courses at the college level.
+
+YOUNG LEARNER
+
+PARENT
+Parents can use the guide in a wide range of ways. From
+supporting homeschooling activities, to starting creative computing
+clubs at school, to hosting workshops at local community centers,
+parents are encouraged to think about how to use the guide to
+support the creative computing experiences of young learners.
+
+Over the past seven years since Scratch’s launch, young learners
+have been passionate advocates for creative computing in a
+variety of settings. From introducing their parents and teachers to
+programming, to creating learning opportunities for their peers,
+creative computing can be something that is done with them or by
+them, rather than just for them.
+
+WHAT DO I NEED IN ORDER TO USE THIS GUIDE?
+In addition to time and an openness to adventure, some important resources include:
++  Computers with speakers (and, optionally, microphones and webcams): for the computer-based design activities
++  Network connection: for connecting to Scratch online (if your environment does not offer a network connection, a
+downloadable version of Scratch is available)
++  Projector or interactive whiteboard with speakers: for sharing works-in-progress and for demonstrations
++  Design notebooks (physical or digital): for documenting, sketching, and brainstorming ideas and plans
+
+3
+
+

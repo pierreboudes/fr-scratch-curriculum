@@ -1,0 +1,144 @@
+* page-044
+UNIT 2
+OVERVIEW
+THE “BIG IDEA”
+Kids have shared more than six million projects in the
+Scratch online community – animations, stories, games, and
+beyond – and one of our goals with the guide is to reflect
+this enormous diversity of creations. Within activities, we
+support opportunities to personalize and avoid presenting
+challenges that have only one “right” answer; across
+activities, we engage learners in a variety of genres. In this
+unit, we start to explore this creative diversity with a deep
+dive into animation, art, and music.
+Creative diversity in Scratch has often been highlighted by
+learners. Here are a few quotes from learners who were
+asked, “If you had to explain what Scratch is to one of your
+friends, how would you describe it?”
+
+It’s jus
+endless pt that there’s
+o
+not like ssibilities. It’s
+make this you can just
+project project or this
+a
+that you nd that’s all
+can make
+Nevin, 9 .
+years old
+
+It’s rea
+your selflly great to expr
+could do creatively. Yoess
+Y o u c a anything with u
+games, mn m a k e v i d eit.
+anything usic, art, vide o
+are endle. The possibilitieos,
+really. ss, no limitatio s
+ns,
+Lindsey, 1
+2 years o
+ld
+
+LEARNING OBJECTIVES
+
+40
+
+Students will:
++  be introduced to the computational thinking concepts of loops,
+events, and parallelism
++  become more familiar with the concepts of sequence
++  experiment with new blocks in the Events, Control, Sound, and
+Looks categories
++  explore various arts-themed Scratch programs
++  create an animated music video project
+
+It’s a pr
+og
+imaginati ram that lets yo
+u
+on. You c
+an do wh explore your
+in it. You
+atev
+can create
+anything er you want
+no limit
+. There re
+to what
+you can
+all
+your own
+m
+ake. You y is
+stuff, an
+d
+d
+esig
+don’t wa
+once you
+nt
+start you n
+more, yo to stop because
+just
+u can see
+a
+s
+y
+o
+u
+there’s m
+and the
+learn
+or e
+mo
+more you re possibilities th possibilities,
+e
+w
+learned. ant to expand o re are, the
+n what y
+ou just
+Bradley,
+12 years
+old
+Well, I lik
+e that yo
+u
+of do a
+nything can sort
+on it. It
+like you
+’s
+ca
+you want, n do whatever
+re
+as creati ally. You can be
+ve as yo
+u want to
+be.
+Aaron, 10
+years old
+
+KEY WORDS, CONCEPTS, & PRACTICES
++  loops
++  events
++  parallelism
++  control
+
++  broadcast
++  scripts
++  presentation
+mode
+
++  bitmap
++  vector
++  animation
++  gallery walk
+
+NOTES
++  Many activities in this unit include elements of sound and
+music. We recommend having headphones readily available
+for students.
+
+

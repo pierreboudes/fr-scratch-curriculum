@@ -1,0 +1,55 @@
+* page-094
+UNIT 5
+OVERVIEW
+THE
+THE“BIG
+“BIGIDEA”
+IDEA”
+After the release of the previous version of the guide, a
+common piece of feedback that we received from teachers
+was that they (and the learners they support) wanted more
+“catch-up” time, time to linger, revisit, and extend the
+ideas and projects they had created in previous units. In
+response, we added this “Diving Deeper” unit.
+Whether pushing ahead with advanced concepts and
+practices or revisiting previous experiences, this is an
+opportunity for learners to engage in a moment of
+contemplation and reflection. What isn’t as clear as it could
+be? What do they still want to know about Scratch? How
+might others help them – and how might they help others?
+This is also an opportunity for you, as educator, to engage
+in similar acts of contemplation and reflection. What has
+surprised you? What has made you uncomfortable? What
+would you want to do differently next time? Why?
+
+90
+
+LEARNING OBJECTIVES
+
+KEY WORDS, CONCEPTS, & PRACTICES
+
+Learners will:
++  reflect on past experiences to self-assess current learning goals
+and needs
++  create a self-remix by extending a previously started project
++  be introduced to various hardware extensions that connect
+Scratch to the physical world
++  gain more fluency in computational concepts and practices by
+exploring the newest Scratch features (video sensing, cloning)
++  experiment with designing learning experiences for others
+
++  video sensing
++  cloning
+
++  peer interviews +  extensions
++  hardware
+
+NOTES
++  Not finding what you’re looking for? Feel free to remix, reuse,
+and reimagine any of the activities in this guide to make it
+work best for you and your learners.
++  Search for lesson plans, activities, and resources designed for
+a specific curricular area on the ScratchEd website:
+http://scratched.gse.harvard.edu
+
+

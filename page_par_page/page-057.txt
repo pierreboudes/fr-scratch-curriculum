@@ -1,0 +1,52 @@
+* page-057
+MUSIC VIDEO
+HOW CAN YOU COMBINE ANIMATION
+WITH MUSIC TO CREATE YOUR OWN
+SCRATCH-INSPIRED MUSIC VIDEO?
+In this project, you will explore ideas related
+to theatre, song, dance, music, drawing,
+illustration, photography, and animation to
+create a personalized music video!
+
+START HERE
+! Add sound.
+! Create and animate a sprite.
+
+upload sounds from a file	  
+record your own sounds	  
+choose sounds from library	  
+
+choose sprite
+from library	  
+paint your own sprite	  
+
+! Make them interact together!
+
+upload sprite from file	  
+new sprite from camera	  
+
+THINGS TO TRY
+
+TIPS & TRICKS
+
+BLOCKS TO PLAY WITH
+
+! Use costumes to help bring your animations to life!
+! Make your sprite interactive by adding scripts that have the sprite
+respond to clicks, key presses, and more.
+! Add instructions on the project page to explain how people can
+interact with your program.
+
+FINISHED?
+FINISHED?
+FINISHED?
++  Add your project to the Music Video
+studio: http://scratch.mit.edu/studios/
+475517
+
++  Be sure to give credit to any music, code,
+or other work used in your project.
++  Challenge yourself to do more! Create
+your own sprites, sounds, or costumes!
+
+

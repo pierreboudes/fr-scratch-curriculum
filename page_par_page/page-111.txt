@@ -1,0 +1,43 @@
+* page-111
+MY DEBUG IT!
+IT’S TIME TO DESIGN YOUR OWN DEBUG
+IT PROGRAM. WHAT WILL YOU CREATE?
+In this activity, you will create your own
+Debug It! challenge for others to investigate,
+solve, and remix.
+
+START HERE
+! Reflect back on the different kinds of bugs you’ve
+encountered in creating and debugging your own
+
+PLANS FOR MY DEBUG IT!
+
+projects.
+! Generate a list of possible debugging challenges you
+could create. A Debug It! can focus on a specific
+concept, block, interaction, or some other
+programming challenge.
+! Build your Debug It! program.
+
+NOTES
+F
+L
+E
+S
+O
+T
+! 
+! 
+! 
+! 
+! 
+
+FINISHED?
++  Add your debugging challenge to the My Debug It! studio:
+http://scratch.mit.edu/studios/475637
++  Swap Debug It! programs with a neighbor and try to solve each
+other’s buggy programs.
++  Help a neighbor.
++  Try debugging other programs in the My Debug It! studio.
+
+
