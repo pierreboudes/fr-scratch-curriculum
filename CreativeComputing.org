@@ -1,10 +1,10 @@
-* page-001
+* Intro
+** page-001
 CREATIVE COMPUTING
 Karen Brennan | Christan Balch | Michelle Chung
 Harvard Graduate School of Education
 
-
-* page-002
+** page-002
 TABLE OF
 CONTENTS
 BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
@@ -38,8 +38,8 @@ It’s Alive! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Debug It! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
 Music Video . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
 
-
-* page-003
+
+** page-003
 UNIT 3 – STORIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
 Characters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
 Conversations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
@@ -78,69 +78,23 @@ For Further Reading . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Links . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
 
 
-* page-004
-
-* page-005
+** page-004
+
+** page-005
 BACKGROUND
 To help you dive into the world of creative computing
 as quickly as possible, we have assembled answers to
 eight common questions:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. What is Creative Computing?
+2. What is Scratch?
+3. What is this guide?
+4. Who is this guide for?
+5. What do I need in order to use this guide?
+6. What is included in this guide?
+7. How should I use this guide?
+8. Where did this guide come from?
 
-What is Creative Computing?
-What is Scratch?
-What is this guide?
-Who is this guide for?
-What do I need in order to use this guide?
-What is included in this guide?
-How should I use this guide?
-Where did this guide come from?
-
-e
-h
-t
-o
-t
-e
-Welcom
-g
-n
-i
-t
-u
-p
-m
-o
-C
-e
-v
-i
-t
-a
-Cr e
-!
-e
-d
-i
-u
-G
-m
-u
-l
-u
-c
-i
-r
-r
-u
-C
+Welcome to the Creative Computing Curriculum Guide
 
 WHAT IS CREATIVE COMPUTING?
 
@@ -176,10 +130,9 @@ computational thinkers – individuals who
 can draw on computational concepts,
 practices, and perspectives in all aspects of
 their lives, across disciplines and contexts.
-1
 
-
-* page-006
+** page-006
+
 WHAT IS SCRATCH?
 There are many different tools that can be used for
 creative computing. In this guide, we use Scratch,
@@ -202,9 +155,6 @@ computational thinking practices (experimenting and iterating, testing and debug
 abstracting and modularizing). Learn more about computational thinking – what it is and how to assess its
 development in learners – from resources in the appendix or by visiting http://scratched.gse.harvard.edu/ct
 Inspired by constructionist approaches to learning, the activities in this guide emphasize the following principles:
-
-2
-
 PRINCIPLE #1:
 CREATING
 
@@ -238,8 +188,7 @@ learners to review and
 rethink their creative
 practices.
 
-
-* page-007
+** page-007
 WHO IS THIS GUIDE FOR?
 No matter your current context or prior experience,
 this guide was designed with a wide range of learners
@@ -263,33 +212,8 @@ drop-in play space, these learning environments are ideal for
 supporting explorations in creative computing, without some of
 the restrictions present in traditional settings.
 
-e
-v
-i
-t
-a
-e
-r
-C
-s
-i
-g
-n
-i
-t
-compu
-!
-y
-d
-o
-b
-y
-r
-e
-v
-e
-r
-fo
+Creative computing is for everybody
+
 COLLEGE INSTRUCTOR
 Scratch can serve as an introduction to fundamental
 computational concepts and practices, often followed by a
@@ -324,27 +248,14 @@ downloadable version of Scratch is available)
 +  Projector or interactive whiteboard with speakers: for sharing works-in-progress and for demonstrations
 +  Design notebooks (physical or digital): for documenting, sketching, and brainstorming ideas and plans
 
-3
+** page-008
+WHAT IS INCLUDED IN THIS GUIDE?
 
-
-* page-008
-Get comfortable with the key computational concept of
-sequence through a series of activities that provide
-varying levels of structure – from a step-by-step tutorial,
-to a creative challenge using a limited number of blocks,
-to open-ended explorations through making a project
-about yourself.	  
+This guide is organized in seven units – from an
+initial preparatory unit to a culminating project-based unit – with each unit typically including six
+activities. A summary of each unit follows:
 
-Play with visuals and audio in these activities focused on
-animation, art, and music. Explore Scratch’s focus on
-media – and the key computational concepts of loops,
-events, and parallelism – by building your own band,
-designing animated creatures, and creating a music video
-for a favorite song.
-
-UNIT 4 - GAMES
-UNIT 5 – DIVING DEEPER
-
+UNIT 0 – GETTING STARTED
 Prepare for the culture of creative computing by exploring
 possibilities and setting up technical infrastructure (e.g.,
 creating Scratch accounts, starting design journals) and
@@ -352,21 +263,23 @@ social infrastructure (e.g., establishing critique groups).
 Dive into an initial creative experience by making
 something “surprising” happen to a Scratch character.
 
-UNIT 6 - HACKATHON
+UNIT 1 - EXPLORING
+Get comfortable with the key computational concept of
+sequence through a series of activities that provide
+varying levels of structure – from a step-by-step tutorial,
+to a creative challenge using a limited number of blocks,
+to open-ended explorations through making a project
+about yourself.
 
 UNIT 2 - ANIMATIONS
-
-UNIT 1 - EXPLORING
-
-UNIT 0 – GETTING STARTED
-
-This guide is organized in seven units – from an
-initial preparatory unit to a culminating projectbased unit – with each unit typically including six
-activities. A summary of each unit follows:
+Play with visuals and audio in these activities focused on
+animation, art, and music. Explore Scratch’s focus on
+media – and the key computational concepts of loops,
+events, and parallelism – by building your own band,
+designing animated creatures, and creating a music video
+for a favorite song.
 
 UNIT 3 - STORIES
-
-WHAT IS INCLUDED IN THIS GUIDE?
 Create new interactive worlds through collaborative
 storytelling. Begin by developing characters, learning to
 code conversations, and then situating those characters
@@ -375,6 +288,7 @@ conversations, and scenes in a larger story project that is
 passed along to other creators to further develop – and
 possibly reimagine entirely!
 
+UNIT 4 - GAMES
 Connect fundamental game mechanics such as score
 and levels to key computational concepts, such as
 variables, operators, and conditionals. Analyze your
@@ -382,11 +296,13 @@ favorite games, imagine new ones, and practice game
 design by implementing (and extending) classic games,
 like Pong.
 
+UNIT 5 – DIVING DEEPER
 Before the culminating unit, take a moment to revisit
 work from prior units, further exploring advanced
 concepts or helping others by designing new activities or
 debugging challenges.
 
+UNIT 6 - HACKATHON
 Put all of the computational concepts and practices into
 action by designing and developing a project of your
 own through iterative cycles of planning, making, and
@@ -405,11 +321,10 @@ suggested throughout the guide, such as:
 
 We view assessment as something that is done with students, to support their understanding of what they already know and what they still
 want to learn. Assessment can involve a variety of participants, including the creators, their peers, teachers, parents, and others.
-4
 
-
-* page-009
+** page-009
 HOW SHOULD I USE THIS GUIDE?
+
 USE AS MUCH
 OR AS LITTLE AS
 YOU LIKE
@@ -436,6 +351,7 @@ you’re doing, so we encourage you to document and
 share your experiences with us and with other
 educators via the ScratchEd community at
 http://scratched.gse.harvard.edu
+
 We are releasing this guide under a Creative Commons
 Attribution-ShareAlike license, which means that you are
 completely free to use, change, and share this work, as
@@ -443,13 +359,14 @@ long as you provide appropriate attribution and give others
 access to any derivative works.
 
 WHERE DID THIS GUIDE COME FROM?
+
 This guide was developed by members of the ScratchEd research team at the Harvard Graduate School of Education – Christan Balch,
 Michelle Chung, and Karen Brennan. Jeff Hawson provided editing support and inexhaustible enthusiasm.
- 
+
 The guide contents draw on a previous version of the Creative Computing Guide (released in 2011) and on the Creative Computing Online
 Workshop (hosted in 2013). These were made possible with support from the National Science Foundation through grant DRL-1019396, the
 Google CS4HS program, and the Code-to-Learn Foundation.
- 
+
 We are enormously appreciative of the numerous educators who have used the previous version of this guide and participated in
 workshops. In particular, we would like to thank the educators who extensively tested the first guide (Russell Clough, Judy Hoffman, Kara
 Kestner, Alvin Kroon, Melissa Nordmann, and Tyson Spraul) and the educators who extensively reviewed the current guide (Ingrid
@@ -461,32 +378,17 @@ Graduate School of Education interns who have contributed to the guide developme
 2011, including Vanity Gee, Vanessa Gennarelli, Mylo Lam, Tomoko Matsukawa, Aaron Morris, Matthew Ong, Roshanak Razavi, Mary Jo
 Madda, Eric Schilling, and Elizabeth Woodbury.
 
-5
+** page-010
 
-
-* page-010
-6
 
-
-* page-011
+* Unité 0
+** page-011
 UNIT 0
 GETTING STARTED
 
 YOU ARE HERE
-0
-
-1
-
-2
-
-3
-
-4
 
 WHAT’S INCLUDED
-5
-
-6
 
 INTRODUCING SCRATCH
 SCRATCH ACCOUNT
@@ -495,27 +397,23 @@ SCRATCH SURPRISE
 SCRATCH STUDIO
 CRITIQUE GROUP
 
-10
-12
-14
-16
-18
-20
-7
 
-
-* page-012
+
+** page-012
 UNIT 0
 OVERVIEW
 THE “BIG IDEA”
+
 When we shared a draft of this guide with teachers,
 a common initial reaction was, “Unit 0?!? Why 0?”
+
 We hoped to communicate that this is a preparatory
 unit, supporting you in establishing a culture of
 creative computing through creating, personalizing,
 sharing, and reflecting. Our ambition to support this
 type of learning culture will be evident throughout
 the guide.
+
 Creative computing culture has an intellectual
 dimension, engaging with a set of computational
 concepts and practices. It has a physical dimension,
@@ -524,70 +422,16 @@ placement of desks, chairs, and computers. Most
 importantly, it has an affective dimension,
 cultivating a sense of confidence and fearlessness.
 
-8
-
-It really
-help
-in your c s if you have kin
-lassroom
-. It starts d of a culture or
-kids to a
-climate
-on the fi
-ppreciate
-r st
-th
-and that
-I’m going at they’re going to day – getting
-to be ask
-hard. I a
-ing them make mistakes
-lw
-to do stu
-don’t, at ays just put that
-ff that is
-first, just
-right out
-because
-th
-adults do
-e
-r
-e
-.
-And th
-they
-n’t like to
-importan
-fail, or m want to succeed. ey
-t, I feel,
-Even
-ake mista
-tha
-that it’s
-not time t when you do ru kes. But it is
-n in
-to
-about th
-e strateg give up or cry. It to difficulties
-ie
-’s
-s that y
-problem,
-ou have time to think
-or to loo
-k
-to solve
-or give u
-p – you k for help. No reas
-your
-on to bre
-eep at it.
-ak down
-TS, Eleme
-ntary Sch
-ool Teach
-er
+It really helps if you have kind of a culture or climate
+in your classroom. It starts on the first day - getting kids to
+appreciate that they're going to make mistakes and that I'm going to
+be asking them to do stuff that is hard. I always just put that right
+out there. And they don't, at first, just because they want to
+succeed. Even adults don't like to fail, or make mistakes. But it is
+important, I feel, that when you do run into difficulties that it's
+not time to give up or cry. It's time to think about the strategies
+that you have to solve your problem, or to look for help. No reason to
+break down or give up - you keep at it. TS, Elementary School Teacher
 
 LEARNING OBJECTIVES
 
@@ -618,8 +462,8 @@ computers can access the Scratch website.
 available for download:
 http://scratch.mit.edu/scratch2download
 
-
-* page-013
+
+** page-013
 CHOOSE YOUR OWN ADVENTURE
 Ready to get started? This unit is designed for those who are
 completely new to Scratch. From exploring inspiring projects, to
@@ -637,9 +481,9 @@ Not sure where to start? For more support, check out the
 suggested path through the activities provided below.
 
 POSSIBLE PATH
-SESSION 1	  
+SESSION 1
 
-SESSION 2	  
+SESSION 2
 
 INTRODUCING
 SCRATCH
@@ -695,21 +539,21 @@ feedback on ideas
 and projects
 drafts.
 
-9
-
-
-* page-014
+** page-014
 UNIT 0 ACTIVITY
 
 INTRODUCING
 SCRATCH
-S U G G E S T E D
+
+S U G G E S T E D  T I M E
+5 – 15 M I N U T E S
 
 OBJECTIVES
-
-T I M E
-
-5 – 15 M I N U T E S
+By completing this activity, students will:
++  be introduced to computational creation with the
+Scratch programming environment by watching the
+Scratch overview video or exploring sample projects
++  be able to imagine possibilities for their own Scratchbased computational creation
 
 ACTIVITY DESCRIPTION
 ! Ask students about their experiences with computers using the
@@ -722,12 +566,6 @@ next several sessions they will be creating their own interactive
 computational media with Scratch.
 ! What will you create? Ask students to imagine what types of
 projects they want to create with Scratch.
-
-By completing this activity, students will:
-+  be introduced to computational creation with the
-Scratch programming environment by watching the
-Scratch overview video or exploring sample projects
-+  be able to imagine possibilities for their own Scratchbased computational creation
 
 RESOURCES
 ! projector for showing Scratch overview video (optional)
@@ -763,14 +601,16 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-015
-
-* page-016
+** page-015
+
+** page-016
 UNIT 0 ACTIVITY
 
 SCRATCH ACCOUNT
-S U G G E S T E D
+
+S U G G E S T E D  T I M E
+5 – 15 M I N U T E S
+
 
 OBJECTIVES
 
@@ -779,9 +619,6 @@ By completing this activity, students will:
 +  explore the Scratch online community and review the
 Scratch community guidelines
 
-T I M E
-
-5 – 15 M I N U T E S
 
 ACTIVITY DESCRIPTION
 ! Scratch online accounts require an email address. If students
@@ -826,7 +663,6 @@ that is registered with the account.
 +  To remember passwords while maintaining privacy, have
 students write down their username and password in sealed
 envelopes that are kept in a secure place in the classroom.
-12
 
 NOTES TO SELF
 ! 
@@ -834,11 +670,12 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-017
+** page-017
 SCRATCH ACCOUNT
+
 NEW TO SCRATCH? GET STARTED BY
 CREATING YOUR SCRATCH ACCOUNT!
+
 You will need a Scratch account to create,
 save, and share your Scratch projects. The
 steps below will walk you through creating a
@@ -855,12 +692,15 @@ own Scratch account!
 FINISHED?
 FINISHED?
 
-
-* page-018
+
+** page-018
 UNIT 0 ACTIVITY
 
 DESIGN JOURNAL
-S U G G E S T E D
+
+S U G G E S T E D  T I M E
+15 – 3 0 M I N U T E S
+
 
 OBJECTIVES
 
@@ -868,11 +708,7 @@ By completing this activity, students will:
 +  start a personalized design journal for documenting
 their design process and reflections
 
-T I M E
 
-15 – 3 0 M I N U T E S
-
-ACTIVITY DESCRIPTION
 ACTIVITY DESCRIPTION
 ! Introduce students to the idea of the design journal, a physical
 or digital notebook where they can brainstorm ideas and share
@@ -925,23 +761,22 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-019
-
-* page-020
-UNIT
-UIT 0 ACTIVITY
+
+** page-019
+
+** page-020
+UNIT 0 ACTIVITY
 
 SCRATCH SURPRISE
-S U G G E S T E D
 
+S U G G E S T E D  T I M E
+15 – 3 0 M I N U T E S
+
+OBJECTIVES
 By completing this activity, students will:
 +  engage in an exploratory, hands-on experience with
 Scratch
 
-T I M E
-
-15 – 3 0 M I N U T E S
 
 ACTIVITY DESCRIPTION
 ! Help students open the Scratch project editor by navigating to
@@ -972,9 +807,8 @@ space where everyone is learning together.
 +  Make sure that your computers have the latest version of
 Flash to run Scratch:
 http://helpx.adobe.com/flash-player.html
-16
 
-OBJECTIVES
+
 
 RESOURCES
 ! Scratch Surprise Handout
@@ -996,11 +830,13 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-021
+
+** page-021
 SCRATCH SURPRISE
+
 CAN YOU MAKE THE SCRATCH CAT DO
 SOMETHING SURPRISING?
+
 In this activity, you will create a new project
 with Scratch and explore different Scratch
 blocks to make the cat do something
@@ -1018,20 +854,21 @@ Scratch blocks into the scripting area. Experiment by
 clicking on each block to see what they do or try
 snapping blocks together.
 
-
-* page-022
+
+** page-022
 UNIT 0 ACTIVITY
 
 SCRATCH STUDIO
-S U G G E S T E D
 
+S U G G E S T E D  T I M E
+5 – 15 M I N U T E S
+
+
+OBJECTIVES
 By completing this activity, students will:
 +  be able to add a project to a studio
 +  be able to post comments on other Scratch projects
 
-T I M E
-
-5 – 15 M I N U T E S
 
 ACTIVITY DESCRIPTION
 ! Scratch studios are one way to collect and organize Scratch
@@ -1060,9 +897,7 @@ Create one dedicated studio to gather all class projects or
 distribute activities across separate studios to track student
 progress.
 
-18
 
-OBJECTIVES
 
 RESOURCES
 ! Scratch Studio handout
@@ -1086,11 +921,13 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-023
+
+** page-023
 SCRATCH STUDIO
+
 LEARN HOW TO ADD YOUR PROJECT TO
 AN ONLINE SCRATCH STUDIO!
+
 Studios are collections of Scratch projects.
 Follow along with the steps below to add
 your Scratch Surprise program to the Scratch
@@ -1107,12 +944,15 @@ recently viewed projects.
 and then click “Add + ” to add your project to the
 studio.
 
-
-* page-024
+
+** page-024
 UNIT 0 ACTIVITY
 
 CRITIQUE GROUP
-S U G G E S T E D
+
+S U G G E S T E D  T I M E
+15 – 3 0 M I N U T E S
+
 
 OBJECTIVES
 
@@ -1120,9 +960,6 @@ By completing this activity, students will:
 +  divide into small critique groups in order to give and
 get feedback on design ideas and works-in-progress
 
-T I M E
-
-15 – 3 0 M I N U T E S
 
 ACTIVITY DESCRIPTION
 ! Introduce students to the idea of a critique group, a small
@@ -1168,19 +1005,19 @@ NOTES TO SELF
 ! 
 ! 
 
-20
-
-
-* page-025
+** page-025
 CRITIQUE GROUP
+
 FEEDBACK FOR: ______________________________________________________________________
 
-PROJECT
-FEEDBACK
+
 PROJECT TITLE: ______________________________________________________________________
+
 FEEDBACK BY
 
-[RED] What is something that doesn’t work [YELLOW] What is something that is
+[RED] What is something that doesn’t work
+
+[YELLOW] What is something that is
 confusing or could be done differently?
 or could be improved?
 
@@ -1192,30 +1029,18 @@ PARTS OF THE PROJECT THAT MIGHT BE HELPFUL TO THINK ABOUT:
 +  Features: What features does the project have? Does the project work as expected?
 +  Appeal: How engaging is the project? Is it interactive, original, sophisticated, funny, or interesting? How did you feel as you interacted with it?
 
-
-* page-026
-22
 
-
-* page-027
+** page-026
+
+
+* Unité 1
+** page-027
 UNIT 1
 EXPLORING
 
 YOU ARE HERE
-0
-
-1
-
-2
-
-3
-
-4
 
 WHAT’S INCLUDED
-5
-
-6
 
 PROGRAMMED TO DANCE
 STEP-BY-STEP
@@ -1224,16 +1049,8 @@ MY STUDIO
 DEBUG IT!
 ABOUT ME
 
-26
-28
-30
-32
-34
-36
-23
 
-
-* page-028
+** page-028
 UNIT 1
 OVERVIEW
 THE “BIG IDEA”
@@ -1264,63 +1081,15 @@ problem that a learner encounters. But, as Papert noted,
 educators can serve as cognitive guides, asking questions
 and helping break down problems into manageable pieces.
 
-24
 
-As they
-p
-revelation uzzled together
-: “Do yo
-u mean,” the child had
-really do
-n’t know
-how to fi he said, “that a
-yet know
-y
-x it?” Th
-e child d ou
-revealed how to say it,
-id
-not
-to h
-but wha
-t had b
-been eng im was that he
-een
-an
-ag
-incident is ed together in a d the teacher had
-re
-p
-child ente oignant. It speak search project. T
-he
-s of all th
-red into te
-e times th
-achers’ g
-together
-a
-is
-”
-mes of “le
-t’s do tha
-collabora all the while
-t
-tion was
-a fiction. knowing that
-setup; inv
-t
-D
-h
-is
-e
-ention ca
-nnot be s covery cannot be
-cheduled
-a
-.
-(Papert,
-1980, p.
-115)
+As they puzzled together, the child had a revelation: "Do you mean",
+he said, "that you really don't know gow to fix it?" The child did not
+yet know how to say it, but what had been revealed to him was that he
+and the teacher had been engaged together in a research project. The
+incident is poignant. It speaks of all the times this child entered
+into teachers' games of "let's do that together" all the while knowing
+that the collaboration was a fiction. Discovery cannot be a setup;
+invention cannot be scheduled. (Papert, 1980, p. 115)
 
 KEY WORDS, CONCEPTS, & PRACTICES
 +  experimenting
@@ -1343,8 +1112,6 @@ debugging
 
 LEARNING OBJECTIVES
 
-NOTES
-
 Students will:
 +  build on initial explorations of the Scratch environment by
 creating an interactive Scratch project
@@ -1352,14 +1119,15 @@ creating an interactive Scratch project
 +  become familiar with the concept of sequence
 +  practice experimenting and iterating while creating projects
 
+NOTES
+
 +  Make sure students already have a Scratch account for saving and
 sharing their projects online.
 +  Think about how you plan to access your students’ work. For
 example, you can create class studios to collect projects, have
 students email you project links, or start a class blog.
 
-
-* page-029
+** page-029
 CHOOSE YOUR OWN ADVENTURE
 This unit includes a mix of structured and open-ended activities
 that engage students in exploration of the key concept of
@@ -1379,13 +1147,14 @@ you. If you’re not sure where to start, a possible order for the
 activities is suggested below.
 
 POSSIBLE PATH
-SESSION 2	  
 
-SESSION 1	  
+SESSION 1
 
-SESSION 3	  
+SESSION 2
 
-SESSION 4 & SESSION 5	  
+SESSION 3
+
+SESSION 4 & SESSION 5
 
 PROGRAMMED
 TO DANCE
@@ -1431,23 +1200,20 @@ make an
 interactive collage
 about yourself?
 
-25
-
-
-* page-030
+** page-030
 UNIT 1 ACTIVITY
 
 PROGRAMMED TO
 DANCE
-S U G G E S T E D
 
+S U G G E S T E D  T I M E
+45–60 MINUTES
+
+OBJECTIVES
 By completing this activity, students will:
 +  learn to express a complex activity using a sequence of
 simple instructions
 
-T I M E
-
-45–60 MINUTES
 
 ACTIVITY DESCRIPTION
 ! Ask for 8 volunteers – four people who don’t mind being bossy
@@ -1469,18 +1235,6 @@ students reflect individually in their design journals or
 facilitate a group discussion by inviting different bossy/
 bossed pairs and observers to share their thoughts.
 
-NOTES
-+  This is one of several activities in this guide that are
-computer-free. Stepping back from the computer can
-support fresh perspectives on and new understandings of
-computational concepts, practices, and perspectives.
-+  Have students write down step-by-step instructions for one
-of the dances. In programming, this is called “pseudocode”.
-
-26
-
-OBJECTIVES
-
 RESOURCES
 ! projector (optional)
 ! Programmed to Dance videos
@@ -1500,23 +1254,30 @@ REVIEWING STUDENT WORK
 +  Can students explain what is important about sequence
 when specifying instructions?
 
+
+NOTES
++  This is one of several activities in this guide that are
+computer-free. Stepping back from the computer can
+support fresh perspectives on and new understandings of
+computational concepts, practices, and perspectives.
++  Have students write down step-by-step instructions for one
+of the dances. In programming, this is called “pseudocode”.
+
 NOTES TO SELF
 ! 
 ! 
 ! 
 ! 
 
-
-* page-031
-
-* page-032
+
+** page-031
+
+** page-032
 UNIT 1 ACTIVITY
 
 STEP-BY-STEP
-S U G G E S T E D
 
-T I M E
-
+S U G G E S T E D  T I M E
 15 – 3 0 M I N U T E S
 
 ACTIVITY DESCRIPTION
@@ -1545,10 +1306,7 @@ with friends and family.
 +  Remind students how to add a project to a studio with the
 Unit 0 Scratch Studio activity or handout.
 
-28
-
 OBJECTIVES
-
 By completing this activity, students will:
 +  create a dancing cat in Scratch by following a step-bystep tutorial
 +  experience building up a program by experimenting
@@ -1578,8 +1336,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-033
+
+** page-033
 STEP-BY-STEP
 NEW TO SCRATCH? CREATE YOUR FIRST
 SCRATCH PROJECT!
@@ -1610,12 +1368,15 @@ FINISHED?
 +  Help a neighbor!
 +  Choose a few new blocks to experiment with. Try them out!
 
-
-* page-034
+
+** page-034
 UNIT 1 ACTIVITY
 
 10 BLOCKS
-S U G G E S T E D
+
+S U G G E S T E D  T I M E
+15 – 3 0 M I N U T E S
+
 
 OBJECTIVES
 
@@ -1623,11 +1384,8 @@ By completing this activity, students will:
 +  create a project with the constraint of only being able
 to use 10 blocks
 
-T I M E
 
-15 – 3 0 M I N U T E S
 
-ACTIVITY DESCRIPTION
 ACTIVITY DESCRIPTION
 ! Help students sign in to their Scratch accounts and click on
 the Create button at the top of the Scratch website to start a
@@ -1677,11 +1435,10 @@ NOTES TO SELF
 ! 
 ! 
 
-30
 
-
-* page-035
+** page-035
 10 BLOCKS
+
 WHAT CAN YOU CREATE WITH ONLY 10
 SCRATCH BLOCKS?
 Create a project using only these 10
@@ -1693,25 +1450,8 @@ START HERE
 ! Mix and match blocks in various ways.
 ! Repeat!
 
-G
-N
-I
-L
-E
-E
-F
-STUCK?
-
-THESE
-AY! TRY
-K
-O
-S
-’
-T
-THA
-
-THINGS…
+FEELING STUCK?
+THAT'S OKAY! TRY THESE THINGS…
 
 ! Test ideas by trying out different block combinations. Mix
 and match blocks until you find something that interests
@@ -1729,15 +1469,13 @@ http://scratch.mit.edu/studios/475480
 you can create with these 10 blocks.
 +  Swap projects with a partner and remix each others’ creations.
 
-
-* page-036
+
+** page-036
 UNIT 1 ACTIVITY
 
 MY STUDIO
-S U G G E S T E D
 
-T I M E
-
+S U G G E S T E D  T I M E
 15 – 3 0 M I N U T E S
 
 ACTIVITY DESCRIPTION
@@ -1795,18 +1533,18 @@ Scratch projects that are similar in theme or topic to what
 they want to create or gather programs that include
 techniques or assets to incorporate in a future creation.
 
-32
-
 NOTES TO SELF
 ! 
 ! 
 ! 
 ! 
 
-
-* page-037
+
+** page-037
 MY STUDIO
+
 WHAT CAN BE CREATED WITH SCRATCH?
+
 In this activity, you will investigate the range
 of creative possibility with Scratch by
 exploring some of the millions of projects on
@@ -1836,15 +1574,13 @@ you learn about what can be accomplished in Scratch!
 +  Ask a neighbor what strategies they used to find interesting projects.
 +  Share your newly created studio with a neighbor!
 
-
-* page-038
+
+** page-038
 UNIT 1 ACTIVITY
 
 DEBUG IT!
-S U G G E S T E D
 
-T I M E
-
+S U G G E S T E D  T I M E
 15 – 3 0 M I N U T E S
 
 OBJECTIVES
@@ -1856,7 +1592,7 @@ debugging challenges
 through the practices of testing and debugging
 +  develop a list of strategies for debugging projects
 
-ACTIVITY DESCRIPTION
+
 ACTIVITY DESCRIPTION
 ! Optionally, have the Unit 1 Debug It! handout available to
 guide students during the activity.
@@ -1910,11 +1646,13 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-039
+
+** page-039
 DEBUG IT!
+
 HELP! CAN YOU DEBUG THESE FIVE
 SCRATCH PROGRAMS?
+
 In this activity, you will investigate what is
 going awry and find a solution for each of
 the five Debug It! challenges.
@@ -1953,25 +1691,8 @@ walking upside down! How do we fix the program?
 
 ! DEBUG IT! 1.5 http://scratch.mit.edu/projects/10437476
 
-G
-N
-I
-L
-E
-E
-F
-STUCK?
-
-THESE
-AY! TRY
-K
-O
-S
-’
-T
-THA
-
-THINGS…
+FEELING STUCK?
+THAT'S OKAY! TRY THESE THINGS…
 
 ! Make a list of possible bugs in the program.
 ! Keep track of your work! This can be a useful reminder of
@@ -1993,15 +1714,12 @@ Make note of the similarities and differences in your strategies.
 This can help others understand different parts of your program!
 +  Help a neighbor!
 
-
-* page-040
+
+** page-040
 UNIT 1 ACTIVITY
 
 ABOUT ME
-S U G G E S T E D
-
-T I M E
-
+S U G G E S T E D  T I M E
 45–60 MINUTES
 
 ACTIVITY DESCRIPTION
@@ -2064,14 +1782,13 @@ NOTES TO SELF
 ! 
 ! 
 
-36
-
-
-* page-041
+** page-041
 ABOUT ME
+
 HOW CAN YOU COMBINE INTERESTING
 IMAGES AND SOUNDS TO MAKE AN
 INTERACTIVE COLLAGE ABOUT YOURSELF?
+
 Experiment with sprites, costumes, backdrops,
 looks, and sounds to create an interactive Scratch
 project -- a project that helps other people learn
@@ -2084,7 +1801,6 @@ START HERE
 ! Repeat!
 
 THINGS TO TRY
-
 Make your sprite interactive by adding scripts that have
 the sprite respond to clicks, key presses, and more!
 
@@ -2107,12 +1823,12 @@ Play with adding new blocks,
 sound, or motion!
 +  Help a neighbor!
 
-
-* page-042
-38
 
-
-* page-043
+** page-042
+
+
+* Unité 2
+** page-043
 UNIT 2
 ANIMATIONS
 
@@ -2148,8 +1864,8 @@ MUSIC VIDEO
 43
 39
 
-
-* page-044
+
+** page-044
 UNIT 2
 OVERVIEW
 THE “BIG IDEA”
@@ -2292,8 +2008,8 @@ NOTES
 music. We recommend having headphones readily available
 for students.
 
-
-* page-045
+
+** page-045
 CHOOSE YOUR OWN ADVENTURE
 Programming in Scratch is like directing theatre. In theatre, just
 as in Scratch, there are characters (sprites, in Scratch parlance),
@@ -2375,8 +2091,8 @@ music video?
 
 41
 
-
-* page-046
+
+** page-046
 UNIT 2 ACTIVITY
 
 PERFORMING
@@ -2453,10 +2169,10 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-047
-
-* page-048
+
+** page-047
+
+** page-048
 UNIT 2 ACTIVITY
 
 BUILD-A-BAND
@@ -2522,8 +2238,8 @@ NOTES TO SELF
 
 44
 
-
-* page-049
+
+** page-049
 BUILD-A-BAND
 HOW CAN YOU UTILIZE SCRATCH TO
 CREATE SOUNDS, INSTRUMENTS, BANDS,
@@ -2556,8 +2272,8 @@ http://scratch.mit.edu/studios/475523
 instrument or record your own sounds.
 +  Help a neighbor!
 
-
-* page-050
+
+** page-050
 UNIT 2 ACTIVITY
 
 ORANGE SQUARE,
@@ -2624,8 +2340,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-051
+
+** page-051
 ORANGE SQUARE,
 PURPLE CIRCLE
 WHAT PROJECT CAN YOU CREATE THAT
@@ -2676,8 +2392,8 @@ located at the bottom of the paint editor.
 +  Swap projects with a partner and remix each other’s creations.
 +  Help a neighbor!
 
-
-* page-052
+
+** page-052
 UNIT 2 ACTIVITY
 
 IT’S ALIVE!
@@ -2749,8 +2465,8 @@ NOTES TO SELF
 
 48
 
-
-* page-053
+
+** page-053
 IT’S ALIVE!
 HOW CAN YOU TAKE AN IMAGE OR A
 PHOTO AND MAKE IT COME ALIVE?
@@ -2782,8 +2498,8 @@ animations look even more lifelike.
 +  Share your project with a partner and walk them through your design process.
 +  Find an animated project you’re inspired by and remix it!
 
-
-* page-054
+
+** page-054
 UNIT 2 ACTIVITY
 
 DEBUG IT!
@@ -2854,8 +2570,8 @@ NOTES TO SELF
 
 50
 
-
-* page-055
+
+** page-055
 DEBUG IT!
 HELP! CAN YOU DEBUG THESE FIVE
 SCRATCH PROGRAMS?
@@ -2941,8 +2657,8 @@ This can help others understand different parts of your program!
 make notes of the similarities and differences in your strategies.
 +  Help a neighbor!
 
-
-* page-056
+
+** page-056
 UNIT 2 ACTIVITY
 
 MUSIC VIDEO
@@ -3016,8 +2732,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-057
+
+** page-057
 MUSIC VIDEO
 HOW CAN YOU COMBINE ANIMATION
 WITH MUSIC TO CREATE YOUR OWN
@@ -3068,12 +2784,12 @@ or other work used in your project.
 +  Challenge yourself to do more! Create
 your own sprites, sounds, or costumes!
 
-
-* page-058
+
+** page-058
 54
 
-
-* page-059
+
+** page-059
 UNIT 3
 STORIES
 
@@ -3108,8 +2824,8 @@ PASS IT ON
 68
 55
 
-
-* page-060
+
+** page-060
 UNIT 3
 OVERVIEW
 THE
@@ -3209,8 +2925,8 @@ about ownership and authorship. Consider different strategies
 for how you might facilitate, discuss, and assess cooperative
 and collaborative work.
 
-
-* page-061
+
+** page-061
 CHOOSE YOUR OWN ADVENTURE
 This unit focuses on helping students develop their storytelling
 and remixing abilities through a variety of hands-on and offcomputer design activities, providing opportunities for students
@@ -3281,8 +2997,8 @@ on others’ work?
 
 57
 
-
-* page-062
+
+** page-062
 UNIT 3 ACTIVITY
 
 CHARACTERS
@@ -3351,8 +3067,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-063
+
+** page-063
 CHARACTERS
 DO YOU WANT TO CREATE YOUR OWN
 SCRATCH BLOCKS?
@@ -3389,8 +3105,8 @@ with adding different characters and behaviors
 using the Make a Block feature.
 +  Help a neighbor!
 
-
-* page-064
+
+** page-064
 UNIT 3 ACTIVITY
 
 CONVERSATIONS
@@ -3461,8 +3177,8 @@ NOTES TO SELF
 
 60
 
-
-* page-065
+
+** page-065
 CONVERSATIONS
 WHAT ARE DIFFERENT WAYS TO
 COORDINATE INTERACTIONS BETWEEN
@@ -3517,8 +3233,8 @@ conversations.
 process of exploration and design.
 +  Help a neighbor!
 
-
-* page-066
+
+** page-066
 UNIT 3 ACTIVITY
 
 SCENES
@@ -3585,8 +3301,8 @@ NOTES TO SELF
 
 62
 
-
-* page-067
+
+** page-067
 SCENES
 WHAT IS THE DIFFERENCE BETWEEN THE
 STAGE AND SPRITES?
@@ -3618,8 +3334,8 @@ FINISHED?
 +  Return to one of your previous projects or find a project you are inspired by and
 remix it by adding switching backdrops.
 
-
-* page-068
+
+** page-068
 UNIT
 UNIT33 ACTIVITY
 
@@ -3694,8 +3410,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-069
+
+** page-069
 DEBUG IT!
 
 ! DEBUG IT! 3.1 http://scratch.mit.edu/projects/24269007
@@ -3775,8 +3491,8 @@ This can help others understand different parts of your program!
 make note of the similarities and differences in your strategies.
 +  Help a neighbor!
 
-
-* page-070
+
+** page-070
 UNIT 3 ACTIVITY
 
 CREATURE
@@ -3847,10 +3563,10 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-071
-
-* page-072
+
+** page-071
+
+** page-072
 UNIT 3 ACTIVITY
 
 PASS IT ON
@@ -3925,8 +3641,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-073
+
+** page-073
 PASS IT ON
 WHAT CAN WE CREATE BY BUILDING ON
 OTHERS’ WORK?
@@ -3970,12 +3686,12 @@ scratch.mit.edu/studios/475543
 contributed to and check out
 how the stories evolved!
 
-
-* page-074
+
+** page-074
 70
 
-
-* page-075
+
+** page-075
 UNIT 4
 GAMES
 
@@ -4010,8 +3726,8 @@ DEBUG IT!
 86
 71
 
-
-* page-076
+
+** page-076
 UNIT 4
 OVERVIEW
 THE
@@ -4077,8 +3793,8 @@ added support in the form of example project studios, new
 programming puzzles for extra practice, and starter game
 projects that we encourage you to remix and reuse as needed.
 
-
-* page-077
+
+** page-077
 CHOOSE YOUR OWN ADVENTURE
 In this unit, learners will become game designers and
 experience creating their own game project. Guided by the
@@ -4151,8 +3867,8 @@ programs?
 
 73
 
-
-* page-078
+
+** page-078
 UNIT 4 ACTIVITY
 
 DREAM GAME
@@ -4217,10 +3933,10 @@ NOTES TO SELF
 
 74
 
-
-* page-079
-
-* page-080
+
+** page-079
+
+** page-080
 UNIT 4 ACTIVITY
 
 STARTER
@@ -4296,8 +4012,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-081
+
+** page-081
 MAZE
 HOW CAN YOU USE SCRATCH TO BUILD
 AN INTERACTIVE GAME?
@@ -4346,8 +4062,8 @@ studios/487504
 and walk each other through
 your creations.
 
-
-* page-082
+
+** page-082
 PONG
 HOW CAN YOU USE SCRATCH TO BUILD
 AN INTERACTIVE GAME?
@@ -4391,8 +4107,8 @@ studios/487504
 and walk each other through
 your creations.
 
-
-* page-083
+
+** page-083
 SCROLLING
 HOW CAN YOU USE SCRATCH TO BUILD
 AN INTERACTIVE GAME?
@@ -4442,8 +4158,8 @@ studios/487504
 and walk each other through
 your creations.
 
-
-* page-084
+
+** page-084
 UNIT 4 ACTIVITY
 
 SCORE
@@ -4515,8 +4231,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-085
+
+** page-085
 SCORE
 HOW CAN YOU KEEP SCORE IN A SCRATCH
 PROJECT?
@@ -4567,8 +4283,8 @@ studio: http://scratch.mit.edu/studios/475615
 use score to add difficulty to your game design?
 +  Find a game you are inspired by and remix it!
 
-
-* page-086
+
+** page-086
 UNIT 4 ACTIVITY
 
 EXTENSIONS
@@ -4636,8 +4352,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-087
+
+** page-087
 EXTENSIONS
 HOW CAN YOU EXTEND AND REIMAGINE
 GAMES IN SCRATCH?
@@ -4718,8 +4434,8 @@ the extensions and add them to your games.
 +  Share your project with a neighbor and give each other feedback
 on your games.
 
-
-* page-088
+
+** page-088
 UNIT 4 ACTIVITY
 
 INTERACTIONS
@@ -4793,8 +4509,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-089
+
+** page-089
 INTERACTIONS
 WHAT DIFFERENTIATES A SCRATCH
 PROJECT FROM A STILL IMAGE OR A
@@ -4872,8 +4588,8 @@ http://scratch.mit.edu/studios/487213
 partner. Take notes about the similarities and differences in your
 methods.
 
-
-* page-090
+
+** page-090
 UNIT 4 ACTIVITY
 
 DEBUG IT!
@@ -4945,8 +4661,8 @@ NOTES TO SELF
 
 86
 
-
-* page-091
+
+** page-091
 DEBUG IT!
 HELP! CAN YOU DEBUG THESE FIVE
 SCRATCH PROGRAMS?
@@ -5025,12 +4741,12 @@ This can help others understand different parts of your program!
 Make note of the similarities and differences in your strategies.
 +  Help a neighbor!
 
-
-* page-092
+
+** page-092
 88
 
-
-* page-093
+
+** page-093
 UNIT 5
 DIVING DEEPER
 
@@ -5065,8 +4781,8 @@ MY DEBUG IT!
 106
 89
 
-
-* page-094
+
+** page-094
 UNIT 5
 OVERVIEW
 THE
@@ -5120,8 +4836,8 @@ work best for you and your learners.
 a specific curricular area on the ScratchEd website:
 http://scratched.gse.harvard.edu
 
-
-* page-095
+
+** page-095
 CHOOSE YOUR OWN ADVENTURE
 Rather than focusing on a particular theme or genre like the three
 previous units, this unit is intended to create a space for reviewing
@@ -5197,8 +4913,8 @@ SESSION 3	  
 
 91
 
-
-* page-096
+
+** page-096
 UNIT 5 ACTIVITY
 
 KNOW WANT
@@ -5270,8 +4986,8 @@ NOTES TO SELF
 
 92
 
-
-* page-097
+
+** page-097
 KNOW WANT
 LEARN
 
@@ -5295,8 +5011,8 @@ TIPS & TRICKS
 
 Gather resources to investigate items from the list you created above, and then share what you learned from your research.	  
 
-
-* page-098
+
+** page-098
 UNIT 5 ACTIVITY
 
 ROUND TWO
@@ -5359,10 +5075,10 @@ NOTES TO SELF
 
 94
 
-
-* page-099
-
-* page-100
+
+** page-099
+
+** page-100
 UNIT 5 ACTIVITY
 
 ADVANCED
@@ -5433,10 +5149,10 @@ NOTES TO SELF
 
 96
 
-
-* page-101
-
-* page-102
+
+** page-101
+
+** page-102
 VIDEO SENSING
 HOW CAN YOU USE VIDEO SENSING IN
 YOUR SCRATCH PROJECTS?
@@ -5471,8 +5187,8 @@ http://scratch.mit.edu/studios/221311
 +  Help a neighbor!
 +  Remix a project in the Video Sensing studio.
 
-
-* page-103
+
+** page-103
 CLONING
 HOW CAN YOU USE CLONING IN YOUR
 SCRATCH PROJECTS?
@@ -5507,8 +5223,8 @@ http://scratch.mit.edu/studios/201437
 +  Help a neighbor!
 +  Remix a project in the Cloning studio.
 
-
-* page-104
+
+** page-104
 UNIT 5 ACTIVITY
 
 HARDWARE &
@@ -5579,10 +5295,10 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-105
-
-* page-106
+
+** page-105
+
+** page-106
 UNIT 5 ACTIVITY
 
 ACTIVITY
@@ -5654,8 +5370,8 @@ NOTES TO SELF
 
 102
 
-
-* page-107
+
+** page-107
 ACTIVITY
 DESIGN
 
@@ -5678,8 +5394,8 @@ THEY NEED?
 TIPS &DOTRICKS
 What supplies will people need? What other types of support will help people successfully engage in your activity?	  
 
-
-* page-108
+
+** page-108
 (TITLE)
 
 MY ACTIVITY
@@ -5743,8 +5459,8 @@ NOTES TO SELF
 
 ! 
 
-
-* page-109
+
+** page-109
 (TITLE)
 (PROJECT PICTURE)
 
@@ -5782,8 +5498,8 @@ FINISHED?
 
 + 
 
-
-* page-110
+
+** page-110
 UNIT 5 ACTIVITY
 
 MY DEBUG IT!
@@ -5854,8 +5570,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-111
+
+** page-111
 MY DEBUG IT!
 IT’S TIME TO DESIGN YOUR OWN DEBUG
 IT PROGRAM. WHAT WILL YOU CREATE?
@@ -5897,12 +5613,12 @@ other’s buggy programs.
 +  Help a neighbor.
 +  Try debugging other programs in the My Debug It! studio.
 
-
-* page-112
+
+** page-112
 108
 
-
-* page-113
+
+** page-113
 UNIT 6
 HACKATHON
 
@@ -5942,8 +5658,8 @@ SHOWCASE
 
 109
 
-
-* page-114
+
+** page-114
 UNIT 6
 OVERVIEW
 THE “BIG IDEA”
@@ -5999,8 +5715,8 @@ NOTES
 +  This unit can accommodate either independent or collaborative
 group projects. Pick one option or allow students to choose.
 
-
-* page-115
+
+** page-115
 WHAT IS A HACKATHON?
 “Hack” has a negative connotation to some – but it has a long history of standing for playfulness, curiosity, persistence, and creativity.
 One of our favorite definitions frames “hack” as “an appropriate application of ingenuity”. With this definition, what better capacity for
@@ -6043,8 +5759,8 @@ feedback to guide your next steps!
 
 111
 
-
-* page-116
+
+** page-116
 POSSIBLE PATH
 The hackathon-inspired activities for this unit are designed to challenge students to build up a more complex project within an open-ended
 and collaborative learning environment. All of the important culture-building we’ve been doing – encouraging risk-taking and persistence,
@@ -6140,10 +5856,10 @@ hackathon showcase.
 Final round of
 design!
 
-
-* page-117
-
-* page-118
+
+** page-117
+
+** page-118
 UNIT 6 ACTIVITY
 
 PROJECT
@@ -6213,8 +5929,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-119
+
+** page-119
 PROJECT
 PITCH
 
@@ -6235,8 +5951,8 @@ SKILLS
 IN SCRATCH
 What knowledge, skills, or talents would you like to contribute to a project?
 
-
-* page-120
+
+** page-120
 UNIT 6 ACTIVITY
 
 PROJECT
@@ -6309,10 +6025,10 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-121
-
-* page-122
+
+** page-121
+
+** page-122
 PROJECT
 PLANNING
 
@@ -6332,8 +6048,8 @@ have?
 What resources (e.g., people, sample projects) might you need to
 develop your project?
 
-
-* page-123
+
+** page-123
 PROJECT
 SKETCHES
 
@@ -6351,8 +6067,8 @@ What’s happening? What are the important elements?
 
 What’s happening? What are the important elements?
 
-
-* page-124
+
+** page-124
 UNIT 6 ACTIVITY
 
 DESIGN
@@ -6422,10 +6138,10 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-125
-
-* page-126
+
+** page-125
+
+** page-126
 UNIT 6 ACTIVITY
 
 PROJECT
@@ -6493,8 +6209,8 @@ NOTES TO SELF
 
 122
 
-
-* page-127
+
+** page-127
 PROJECT
 FEEDBACK
 
@@ -6516,8 +6232,8 @@ PARTS OF THE PROJECT THAT MIGHT BE HELPFUL TO THINK ABOUT:
 +  Features: What features does the project have? Does the project work as expected?
 +  Appeal: How engaging is the project? Is it interactive, original, sophisticated, funny, or interesting? How did you feel as you interacted with it?
 
-
-* page-128
+
+** page-128
 UNIT 6 ACTIVITY
 
 PROJECT
@@ -6580,8 +6296,8 @@ NOTES TO SELF
 
 124
 
-
-* page-129
+
+** page-129
 PROJECT
 CHECK-IN
 
@@ -6600,8 +6316,8 @@ on next?
 
 What might you need help with in order to make progress?
 
-
-* page-130
+
+** page-130
 UNIT 6 ACTIVITY
 
 UNFOCUS
@@ -6668,8 +6384,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-131
+
+** page-131
 UNFOCUS
 GROUP
 
@@ -6714,8 +6430,8 @@ any, do you plan to
 incorporate into your
 project next?
 
-
-* page-132
+
+** page-132
 UNIT 6 ACTIVITY
 
 SHOWCASE
@@ -6777,8 +6493,8 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-133
+
+** page-133
 PROJECT
 REFLECTIONS
 
@@ -6806,8 +6522,8 @@ WANT TO OU
 CREATE
 NEXT?
 
-
-* page-134
+
+** page-134
 UNIT 6 ACTIVITY
 
 SHOWCASE
@@ -6869,26 +6585,26 @@ NOTES TO SELF
 ! 
 ! 
 
-
-* page-135
-
-* page-136
+
+** page-135
+
+** page-136
 132
 
-
-* page-137
+
+** page-137
 APPENDIX
 
 0
 
 133
 
-
-* page-138
+
+** page-138
 134
 
-
-* page-139
+
+** page-139
 GLOSSARY
 A guide to the key words, concepts, and practices in the curriculum guide:
 Visit the Scratch help pages at http://scratch.mit.edu/help or the community-generated Scratch Wiki at
@@ -6926,8 +6642,8 @@ around exploring projects, asking questions, and giving feedback. Once complete,
 over.
 135
 
-
-* page-140
+
+** page-140
 gallery walk: A sharing activity in which students put their projects in presentation mode and then walk around and explore each
 other’s projects.
 hardware and extensions: Supplemental materials that connect the digital world of Scratch with the physical world. Examples
@@ -6970,8 +6686,8 @@ sequence: The computational concept of identifying a series of steps for a task.
 showcase: A strategy for sharing in which students present their final projects to others and reflect on their design processes and
 computational creation experiences.
 
-
-* page-141
+
+** page-141
 sound: An audio file that can be played in a Scratch project, available by importing from Scratch's built-in sound library, or creating a
 new recording. Sounds are played by using sound blocks, which control a sound's volume, tempo, and more.
 sprite: A media object that performs actions on the stage in a Scratch project.
@@ -6992,12 +6708,12 @@ video sensing: A Scratch feature that makes use of video from a webcam to detect
 
 137
 
-
-* page-142
+
+** page-142
 138
 
-
-* page-143
+
+** page-143
 STANDARDS
 The activities in this guide make connections to several different K-12 curriculum standards, including the Common
 Core State Standards, the CSTA K-12 Computer Science Standards, and ISTE NETS. We have included connections to
@@ -7033,12 +6749,12 @@ compromise, and share work with others. Example Activity: Unit 3 Pass It On
 
 139
 
-
-* page-144
+
+** page-144
 140
 
-
-* page-145
+
+** page-145
 COMPUTATIONAL THINKING
 Over the past several years, we have been captivated by “computational thinking” as a way to describe the learning and development that
 take place with Scratch. In this section, we share: (1) our definition of computational thinking as a set of concepts, practices, and
@@ -7123,8 +6839,8 @@ feeling empowered to ask questions about the world
 “I can (use computation to) ask questions to make sense of (computational things in) the world.”
 141
 
-
-* page-146
+
+** page-146
 ASSESSING DEVELOPMENT OF COMPUTATIONAL PRACTICES
 The following instrument can be used to assess students’ development of fluency with computational thinking
 practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing).
@@ -7287,8 +7003,8 @@ This student provides a
 specific example of a solution
 to the problem.
 
-
-* page-147
+
+** page-147
 REUSING AND REMIXING
 
 LOW
@@ -7429,8 +7145,8 @@ organized the script and why.
 
 143
 
-
-* page-148
+
+** page-148
 SUPPORTING COMPUTATIONAL PRACTICES IN THE CLASSROOM
 The following instrument can be used to help you reflect on how you are supporting computational practices in your
 learning environment – which may be a classroom, a library, or another learning environment. The purpose of the
@@ -7475,8 +7191,8 @@ If lots, what have I noticed, or learned?
 
 144
 
-
-* page-149
+
+** page-149
 REUSING AND REMIXING: making something by building on existing projects or ideas
 The activity provided opportunities for students to…
 
@@ -7514,12 +7230,12 @@ If lots, what have I noticed, or learned?
 
 145
 
-
-* page-150
+
+** page-150
 146
 
-
-* page-151
+
+** page-151
 FOR FURTHER READING
 A selection of readings to further support your explorations of creative computing:
 Books
@@ -7544,12 +7260,12 @@ doi:10.1109/MC.2013.229
 
 147
 
-
-* page-152
+
+** page-152
 148
 
-
-* page-153
+
+** page-153
 LINKS
 Links to helpful creative computing resources:
 
@@ -7692,10 +7408,8 @@ http://bit.ly/ScratchChainReaction
 
 149
 
-
-* page-154
+
+** page-154
 Developed by the ScratchEd team at the Harvard Graduate School of Education and released under a Creative Commons license.
 
 !
-
-
